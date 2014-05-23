@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ttFont ttLibVersion="2.4-behdad-2014-03-11-02-40">
+
+  <prep>
+    <assembly>
+      PUSH[ ]
+      511
+      SCANCTRL[ ]
+      PUSH[ ]
+      1
+      SCANTYPE[ ]
+      SVTCA[0]
+      MPPEM[ ]
+      PUSH[ ]
+      8
+      LT[ ]
+      IF[ ]
+      PUSH[ ]  /* 2 values pushed */
+      1 1
+      INSTCTRL[ ]
+      EIF[ ]
+      PUSH[ ]  /* 2 values pushed */
+      70 6
+      CALL[ ]
+      IF[ ]
+      POP[ ]
+      PUSH[ ]
+      16
+      EIF[ ]
+      MPPEM[ ]
+      PUSH[ ]
+      20
+      GT[ ]
+      IF[ ]
+      POP[ ]
+      PUSH[ ]
+      128
+      EIF[ ]
+      SCVTCI[ ]
+      PUSH[ ]
+      6
+      CALL[ ]
+      NOT[ ]
+      IF[ ]
+      SVTCA[0]
+      PUSH[ ]
+      4
+      DUP[ ]
+      RCVT[ ]
+      PUSH[ ]
+      3
+      CALL[ ]
+      WCVTP[ ]
+      PUSH[ ]
+      7
+      DUP[ ]
+      RCVT[ ]
+      PUSH[ ]  /* 3 values pushed */
+      4 91 2
+      CALL[ ]
+      PUSH[ ]
+      3
+      CALL[ ]
+      WCVTP[ ]
+      PUSH[ ]
+      6
+      DUP[ ]
+      RCVT[ ]
+      PUSH[ ]  /* 3 values pushed */
+      7 42 2
+      CALL[ ]
+      PUSH[ ]
+      3
+      CALL[ ]
+      WCVTP[ ]
+      PUSH[ ]
+      5
+      DUP[ ]
+      RCVT[ ]
+      PUSH[ ]  /* 3 values pushed */
+      6 25 2
+      CALL[ ]
+      PUSH[ ]
+      3
+      CALL[ ]
+      WCVTP[ ]
+      PUSH[ ]
+      8
+      DUP[ ]
+      RCVT[ ]
+      PUSH[ ]  /* 3 values pushed */
+      4 139 2
+      CALL[ ]
+      PUSH[ ]
+      3
+      CALL[ ]
+      WCVTP[ ]
+      PUSH[ ]
+      9
+      DUP[ ]
+      RCVT[ ]
+      PUSH[ ]  /* 3 values pushed */
+      8 41 2
+      CALL[ ]
+      PUSH[ ]
+      3
+      CALL[ ]
+      WCVTP[ ]
+      SVTCA[1]
+      PUSH[ ]
+      10
+      DUP[ ]
+      RCVT[ ]
+      PUSH[ ]
+      3
+      CALL[ ]
+      WCVTP[ ]
+      PUSH[ ]
+      11
+      DUP[ ]
+      RCVT[ ]
+      PUSH[ ]  /* 3 values pushed */
+      10 76 2
+      CALL[ ]
+      PUSH[ ]  /* 2 values pushed */
+      3 70
+      SROUND[ ]
+      CALL[ ]
+      WCVTP[ ]
+      PUSH[ ]
+      12
+      DUP[ ]
+      RCVT[ ]
+      PUSH[ ]  /* 3 values pushed */
+      10 32767 2
+      CALL[ ]
+      PUSH[ ]  /* 2 values pushed */
+      3 70
+      SROUND[ ]
+      CALL[ ]
+      WCVTP[ ]
+      EIF[ ]
+      PUSH[ ]
+      20
+      CALL[ ]
+    </assembly>
+  </prep>
+
+</ttFont>

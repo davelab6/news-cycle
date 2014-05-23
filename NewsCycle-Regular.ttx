@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4-behdad-2014-03-11-02-40">
+  <GlyphOrder src="NewsCycle-Regular.GlyphOrder.ttx"/>
+  <head src="NewsCycle-Regular._h_e_a_d.ttx"/>
+  <hhea src="NewsCycle-Regular._h_h_e_a.ttx"/>
+  <maxp src="NewsCycle-Regular._m_a_x_p.ttx"/>
+  <OS_2 src="NewsCycle-Regular.O_S_2f_2.ttx"/>
+  <hmtx src="NewsCycle-Regular._h_m_t_x.ttx"/>
+  <cmap src="NewsCycle-Regular._c_m_a_p.ttx"/>
+  <fpgm src="NewsCycle-Regular._f_p_g_m.ttx"/>
+  <prep src="NewsCycle-Regular._p_r_e_p.ttx"/>
+  <cvt src="NewsCycle-Regular._c_v_t.ttx"/>
+  <loca src="NewsCycle-Regular._l_o_c_a.ttx"/>
+  <glyf src="NewsCycle-Regular._g_l_y_f.ttx"/>
+  <name src="NewsCycle-Regular._n_a_m_e.ttx"/>
+  <post src="NewsCycle-Regular._p_o_s_t.ttx"/>
+  <gasp src="NewsCycle-Regular._g_a_s_p.ttx"/>
+  <FFTM src="NewsCycle-Regular.F_F_T_M_.ttx"/>
+  <GDEF src="NewsCycle-Regular.G_D_E_F_.ttx"/>
+  <GPOS src="NewsCycle-Regular.G_P_O_S_.ttx"/>
+  <GSUB src="NewsCycle-Regular.G_S_U_B_.ttx"/>
+  <DSIG src="NewsCycle-Regular.D_S_I_G_.ttx"/>
+</ttFont>
