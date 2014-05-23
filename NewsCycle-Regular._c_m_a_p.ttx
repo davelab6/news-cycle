@@ -100,6 +100,7 @@
       <map code="0x7c" name="bar"/><!-- VERTICAL LINE -->
       <map code="0x7d" name="braceright"/><!-- RIGHT CURLY BRACKET -->
       <map code="0x7e" name="asciitilde"/><!-- TILDE -->
+      <map code="0xa0" name="nbsp"/><!-- NO-BREAK SPACE -->
       <map code="0xa1" name="exclamdown"/><!-- INVERTED EXCLAMATION MARK -->
       <map code="0xa2" name="cent"/><!-- CENT SIGN -->
       <map code="0xa3" name="sterling"/><!-- POUND SIGN -->
@@ -1919,6 +1920,7 @@
       <map code="0x7c" name="bar"/><!-- VERTICAL LINE -->
       <map code="0x7d" name="braceright"/><!-- RIGHT CURLY BRACKET -->
       <map code="0x7e" name="asciitilde"/><!-- TILDE -->
+      <map code="0xa0" name="nbsp"/><!-- NO-BREAK SPACE -->
       <map code="0xa1" name="exclamdown"/><!-- INVERTED EXCLAMATION MARK -->
       <map code="0xa2" name="cent"/><!-- CENT SIGN -->
       <map code="0xa3" name="sterling"/><!-- POUND SIGN -->

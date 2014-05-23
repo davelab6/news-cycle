@@ -4,7 +4,7 @@
   <maxp>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="0x10000"/>
-    <numGlyphs value="1561"/>
+    <numGlyphs value="1562"/>
     <maxPoints value="106"/>
     <maxContours value="14"/>
     <maxCompositePoints value="97"/>
@@ -17,7 +17,7 @@
     <maxStackElements value="256"/>
     <maxSizeOfInstructions value="0"/>
     <maxComponentElements value="8"/>
-    <maxComponentDepth value="5"/>
+    <maxComponentDepth value="8"/>
   </maxp>
 
 </ttFont>

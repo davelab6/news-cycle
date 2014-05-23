@@ -508,6 +508,7 @@
     <mtx name="n" width="988" lsb="110"/>
     <mtx name="nacute" width="988" lsb="110"/>
     <mtx name="napostrophe" width="1139" lsb="48"/>
+    <mtx name="nbsp" width="512" lsb="0"/>
     <mtx name="ncaron" width="988" lsb="110"/>
     <mtx name="ncircumflexbelow" width="988" lsb="110"/>
     <mtx name="ncommaaccent" width="988" lsb="110"/>

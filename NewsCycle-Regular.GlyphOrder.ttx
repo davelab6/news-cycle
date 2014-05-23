@@ -1564,6 +1564,7 @@
     <GlyphID id="1558" name="ffl"/>
     <GlyphID id="1559" name="longs_t"/>
     <GlyphID id="1560" name="st"/>
+    <GlyphID id="1561" name="nbsp"/>
   </GlyphOrder>
 
 </ttFont>

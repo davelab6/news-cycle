@@ -713,6 +713,7 @@
     <GlyphID id="707" name="fl"/>
     <GlyphID id="708" name="ffi"/>
     <GlyphID id="709" name="ffl"/>
+    <GlyphID id="710" name="nbsp"/>
   </GlyphOrder>
 
 </ttFont>

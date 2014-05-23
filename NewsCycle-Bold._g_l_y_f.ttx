@@ -45,7 +45,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="AE" xMin="2" yMin="0" xMax="1593" yMax="1515">
+    <TTGlyph name="AE" xMin="2" yMin="0" xMax="1592" yMax="1515">
       <contour>
         <pt x="687" y="640" on="1"/>
         <pt x="687" y="1314" on="1"/>
@@ -74,12 +74,12 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="AEacute" xMin="2" yMin="0" xMax="1593" yMax="2078">
+    <TTGlyph name="AEacute" xMin="2" yMin="0" xMax="1592" yMax="2078">
       <component glyphName="acute" x="788" y="559" flags="0x1004"/>
       <component glyphName="AE" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="AEmacron" xMin="2" yMin="0" xMax="1593" yMax="1775">
+    <TTGlyph name="AEmacron" xMin="2" yMin="0" xMax="1592" yMax="1775">
       <component glyphName="macron" x="622" y="423" flags="0x1004"/>
       <component glyphName="AE" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
@@ -189,7 +189,7 @@
       <component glyphName="A" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Aogonek" xMin="2" yMin="-348" xMax="1159" yMax="1515">
+    <TTGlyph name="Aogonek" xMin="2" yMin="-353" xMax="1158" yMax="1515">
       <contour>
         <pt x="1033" y="-150" on="1"/>
         <pt x="1033" y="-196" on="0"/>
@@ -280,7 +280,7 @@
       <component glyphName="A" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="B" xMin="123" yMin="0" xMax="1093" yMax="1515">
+    <TTGlyph name="B" xMin="123" yMin="0" xMax="1092" yMax="1515">
       <contour>
         <pt x="362" y="888" on="1"/>
         <pt x="608" y="888" on="1"/>
@@ -330,22 +330,22 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="Bdotaccent" xMin="123" yMin="0" xMax="1093" yMax="1897">
+    <TTGlyph name="Bdotaccent" xMin="123" yMin="0" xMax="1092" yMax="1897">
       <component glyphName="dotaccent" x="529" y="1532" flags="0x1004"/>
       <component glyphName="B" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Bdotbelow" xMin="123" yMin="-272" xMax="1093" yMax="1515">
+    <TTGlyph name="Bdotbelow" xMin="123" yMin="-272" xMax="1092" yMax="1515">
       <component glyphName="dotaccent" x="505" y="-394" flags="0x1004"/>
       <component glyphName="B" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Blinebelow" xMin="123" yMin="-242" xMax="1093" yMax="1515">
+    <TTGlyph name="Blinebelow" xMin="123" yMin="-242" xMax="1092" yMax="1515">
       <component glyphName="macron" x="158" y="-1445" flags="0x1004"/>
       <component glyphName="B" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="C" xMin="63" yMin="-26" xMax="1144" yMax="1543">
+    <TTGlyph name="C" xMin="64" yMin="-26" xMax="1144" yMax="1543">
       <contour>
         <pt x="80" y="570" on="1"/>
         <pt x="64" y="664" on="0"/>
@@ -397,17 +397,17 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="Cacute" xMin="63" yMin="-26" xMax="1144" yMax="2031">
+    <TTGlyph name="Cacute" xMin="64" yMin="-26" xMax="1144" yMax="2031">
       <component glyphName="acute" x="489" y="512" flags="0x1004"/>
       <component glyphName="C" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ccaron" xMin="63" yMin="-26" xMax="1144" yMax="1997">
+    <TTGlyph name="Ccaron" xMin="64" yMin="-26" xMax="1144" yMax="1997">
       <component glyphName="caron" x="313" y="522" flags="0x1004"/>
       <component glyphName="C" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ccedilla" xMin="63" yMin="-362" xMax="1144" yMax="1543">
+    <TTGlyph name="Ccedilla" xMin="64" yMin="-367" xMax="1144" yMax="1543">
       <contour>
         <pt x="80" y="570" on="1"/>
         <pt x="64" y="664" on="0"/>
@@ -470,22 +470,22 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="Ccedillaacute" xMin="63" yMin="-362" xMax="1144" yMax="2078">
+    <TTGlyph name="Ccedillaacute" xMin="64" yMin="-367" xMax="1144" yMax="2078">
       <component glyphName="acute" x="437" y="559" flags="0x1004"/>
       <component glyphName="Ccedilla" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ccircumflex" xMin="63" yMin="-26" xMax="1144" yMax="1968">
+    <TTGlyph name="Ccircumflex" xMin="64" yMin="-26" xMax="1144" yMax="1968">
       <component glyphName="asciicircum" x="313" y="522" flags="0x1004"/>
       <component glyphName="C" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Cdotaccent" xMin="63" yMin="-26" xMax="1144" yMax="1897">
+    <TTGlyph name="Cdotaccent" xMin="64" yMin="-26" xMax="1144" yMax="1897">
       <component glyphName="dotaccent" x="625" y="1532" flags="0x1004"/>
       <component glyphName="C" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="D" xMin="123" yMin="0" xMax="1179" yMax="1515">
+    <TTGlyph name="D" xMin="123" yMin="0" xMax="1178" yMax="1515">
       <contour>
         <pt x="362" y="201" on="1"/>
         <pt x="506" y="201" on="1"/>
@@ -517,12 +517,12 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="DZ" xMin="135" yMin="0" xMax="2340" yMax="1515">
+    <TTGlyph name="DZ" xMin="135" yMin="0" xMax="2339" yMax="1515">
       <component glyphName="Z" x="1226" y="0" flags="0x1004"/>
       <component glyphName="D" x="12" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="DZcaron" xMin="135" yMin="0" xMax="2340" yMax="1997">
+    <TTGlyph name="DZcaron" xMin="135" yMin="0" xMax="2339" yMax="1997">
       <component glyphName="Zcaron" x="1226" y="0" flags="0x1004"/>
       <component glyphName="D" x="12" y="0" flags="0x1004"/>
     </TTGlyph>
@@ -531,51 +531,51 @@
       <component glyphName="Eth" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Dcaron" xMin="123" yMin="0" xMax="1179" yMax="1997">
+    <TTGlyph name="Dcaron" xMin="123" yMin="0" xMax="1178" yMax="1997">
       <component glyphName="caron" x="231" y="522" flags="0x1004"/>
       <component glyphName="D" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Dcedilla" xMin="123" yMin="-336" xMax="1179" yMax="1515">
+    <TTGlyph name="Dcedilla" xMin="123" yMin="-340" xMax="1178" yMax="1515">
       <component glyphName="cedilla" x="167" y="12" flags="0x1004"/>
       <component glyphName="D" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Dcircumflexbelow" xMin="123" yMin="-438" xMax="1179" yMax="1515">
+    <TTGlyph name="Dcircumflexbelow" xMin="123" yMin="-438" xMax="1178" yMax="1515">
       <component glyphName="asciicircum" x="231" y="-1541" flags="0x1004"/>
       <component glyphName="D" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Dcroat" xMin="9" yMin="0" xMax="1168" yMax="1515">
+    <TTGlyph name="Dcroat" xMin="10" yMin="0" xMax="1168" yMax="1515">
       <component glyphName="Eth" x="1" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="Ddotaccent" xMin="123" yMin="0" xMax="1179" yMax="1897">
+    <TTGlyph name="Ddotaccent" xMin="123" yMin="0" xMax="1178" yMax="1897">
       <component glyphName="dotaccent" x="549" y="1532" flags="0x1004"/>
       <component glyphName="D" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ddotbelow" xMin="123" yMin="-272" xMax="1179" yMax="1515">
+    <TTGlyph name="Ddotbelow" xMin="123" yMin="-272" xMax="1178" yMax="1515">
       <component glyphName="dotaccent" x="537" y="-394" flags="0x1004"/>
       <component glyphName="D" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Dlinebelow" xMin="123" yMin="-242" xMax="1179" yMax="1515">
+    <TTGlyph name="Dlinebelow" xMin="123" yMin="-242" xMax="1178" yMax="1515">
       <component glyphName="macron" x="225" y="-1445" flags="0x1004"/>
       <component glyphName="D" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Dz" xMin="135" yMin="0" xMax="2017" yMax="1515">
+    <TTGlyph name="Dz" xMin="135" yMin="0" xMax="2016" yMax="1515">
       <component glyphName="z" x="1226" y="0" flags="0x1004"/>
       <component glyphName="D" x="12" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="Dzcaron" xMin="135" yMin="0" xMax="2017" yMax="1531">
+    <TTGlyph name="Dzcaron" xMin="135" yMin="0" xMax="2016" yMax="1531">
       <component glyphName="zcaron" x="1226" y="0" flags="0x1004"/>
       <component glyphName="D" x="12" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="E" xMin="123" yMin="0" xMax="1029" yMax="1515">
+    <TTGlyph name="E" xMin="123" yMin="0" xMax="1028" yMax="1515">
       <contour>
         <pt x="123" y="0" on="1"/>
         <pt x="123" y="1515" on="1"/>
@@ -594,17 +594,17 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="Eacute" xMin="123" yMin="0" xMax="1029" yMax="2089">
+    <TTGlyph name="Eacute" xMin="123" yMin="0" xMax="1028" yMax="2089">
       <component glyphName="acutecomb" x="369" y="570" flags="0x1004"/>
       <component glyphName="E" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ebreve" xMin="123" yMin="0" xMax="1029" yMax="1890">
+    <TTGlyph name="Ebreve" xMin="123" yMin="0" xMax="1028" yMax="1890">
       <component glyphName="breve" x="291" y="539" flags="0x1004"/>
       <component glyphName="E" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ecaron" xMin="123" yMin="0" xMax="1029" yMax="1997">
+    <TTGlyph name="Ecaron" xMin="123" yMin="0" xMax="1028" yMax="1997">
       <component glyphName="caron" x="245" y="522" flags="0x1004"/>
       <component glyphName="E" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
@@ -660,82 +660,82 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="Ecircumflex" xMin="123" yMin="0" xMax="1029" yMax="2008">
+    <TTGlyph name="Ecircumflex" xMin="123" yMin="0" xMax="1028" yMax="2008">
       <component glyphName="circumflex" x="246" y="531" flags="0x1004"/>
       <component glyphName="E" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ecircumflexacute" xMin="123" yMin="0" xMax="1029" yMax="2487">
+    <TTGlyph name="Ecircumflexacute" xMin="123" yMin="0" xMax="1028" yMax="2487">
       <component glyphName="acute" x="369" y="968" flags="0x1004"/>
       <component glyphName="Ecircumflex" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ecircumflexbelow" xMin="123" yMin="-438" xMax="1029" yMax="1515">
+    <TTGlyph name="Ecircumflexbelow" xMin="123" yMin="-438" xMax="1028" yMax="1515">
       <component glyphName="asciicircum" x="263" y="-1541" flags="0x1004"/>
       <component glyphName="E" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ecircumflexdotbelow" xMin="123" yMin="-272" xMax="1029" yMax="1968">
+    <TTGlyph name="Ecircumflexdotbelow" xMin="123" yMin="-272" xMax="1028" yMax="1968">
       <component glyphName="asciicircum" x="245" y="522" flags="0x1004"/>
       <component glyphName="Edotbelow" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ecircumflexgrave" xMin="123" yMin="0" xMax="1029" yMax="2486">
+    <TTGlyph name="Ecircumflexgrave" xMin="123" yMin="0" xMax="1028" yMax="2486">
       <component glyphName="grave" x="61" y="968" flags="0x1004"/>
       <component glyphName="Ecircumflex" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ecircumflextilde" xMin="123" yMin="0" xMax="1029" yMax="2326">
+    <TTGlyph name="Ecircumflextilde" xMin="123" yMin="0" xMax="1028" yMax="2326">
       <component glyphName="tilde" x="557" y="1941" flags="0x1004"/>
       <component glyphName="Ecircumflex" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Edblgrave" xMin="123" yMin="0" xMax="1029" yMax="2077">
+    <TTGlyph name="Edblgrave" xMin="123" yMin="0" xMax="1028" yMax="2077">
       <component glyphName="dblgravecomb" x="57" y="559" flags="0x1004"/>
       <component glyphName="E" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Edieresis" xMin="123" yMin="0" xMax="1029" yMax="1908">
+    <TTGlyph name="Edieresis" xMin="123" yMin="0" xMax="1028" yMax="1908">
       <component glyphName="dieresis" x="231" y="462" flags="0x1004"/>
       <component glyphName="E" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Edotaccent" xMin="123" yMin="0" xMax="1029" yMax="1897">
+    <TTGlyph name="Edotaccent" xMin="123" yMin="0" xMax="1028" yMax="1897">
       <component glyphName="dotaccent" x="557" y="1532" flags="0x1004"/>
       <component glyphName="E" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Edotbelow" xMin="123" yMin="-272" xMax="1029" yMax="1515">
+    <TTGlyph name="Edotbelow" xMin="123" yMin="-272" xMax="1028" yMax="1515">
       <component glyphName="dotaccent" x="575" y="-394" flags="0x1004"/>
       <component glyphName="E" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Egrave" xMin="123" yMin="0" xMax="1029" yMax="2089">
+    <TTGlyph name="Egrave" xMin="123" yMin="0" xMax="1028" yMax="2089">
       <component glyphName="gravecomb" x="61" y="571" flags="0x1004"/>
       <component glyphName="E" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Einvertedbreve" xMin="123" yMin="0" xMax="1029" yMax="1890">
+    <TTGlyph name="Einvertedbreve" xMin="123" yMin="0" xMax="1028" yMax="1890">
       <component glyphName="breveinvertedcomb" x="291" y="539" flags="0x1004"/>
       <component glyphName="E" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Emacron" xMin="123" yMin="0" xMax="1029" yMax="1775">
+    <TTGlyph name="Emacron" xMin="123" yMin="0" xMax="1028" yMax="1775">
       <component glyphName="macron" x="203" y="423" flags="0x1004"/>
       <component glyphName="E" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Emacronacute" xMin="123" yMin="0" xMax="1029" yMax="2292">
+    <TTGlyph name="Emacronacute" xMin="123" yMin="0" xMax="1028" yMax="2292">
       <component glyphName="acute" x="369" y="773" flags="0x1004"/>
       <component glyphName="Emacron" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Emacrongrave" xMin="123" yMin="0" xMax="1029" yMax="2291">
+    <TTGlyph name="Emacrongrave" xMin="123" yMin="0" xMax="1028" yMax="2291">
       <component glyphName="grave" x="61" y="773" flags="0x1004"/>
       <component glyphName="Emacron" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Eogonek" xMin="123" yMin="-337" xMax="1042" yMax="1515">
+    <TTGlyph name="Eogonek" xMin="123" yMin="-342" xMax="1042" yMax="1515">
       <contour>
         <pt x="917" y="-139" on="1"/>
         <pt x="917" y="-185" on="0"/>
@@ -811,17 +811,17 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="Etilde" xMin="123" yMin="0" xMax="1029" yMax="1917">
+    <TTGlyph name="Etilde" xMin="123" yMin="0" xMax="1028" yMax="1917">
       <component glyphName="tilde" x="557" y="1532" flags="0x1004"/>
       <component glyphName="E" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Etildebelow" xMin="123" yMin="-322" xMax="1029" yMax="1515">
+    <TTGlyph name="Etildebelow" xMin="123" yMin="-322" xMax="1028" yMax="1515">
       <component glyphName="tilde" x="575" y="-441" flags="0x1004"/>
       <component glyphName="E" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Euro" xMin="18" yMin="-26" xMax="1212" yMax="1543">
+    <TTGlyph name="Euro" xMin="19" yMin="-26" xMax="1212" yMax="1543">
       <contour>
         <pt x="19" y="828" on="1"/>
         <pt x="19" y="977" on="1"/>
@@ -892,7 +892,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="F" xMin="123" yMin="0" xMax="991" yMax="1515">
+    <TTGlyph name="F" xMin="123" yMin="0" xMax="990" yMax="1515">
       <contour>
         <pt x="123" y="0" on="1"/>
         <pt x="123" y="1515" on="1"/>
@@ -909,12 +909,12 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="Fdotaccent" xMin="123" yMin="0" xMax="991" yMax="1897">
+    <TTGlyph name="Fdotaccent" xMin="123" yMin="0" xMax="990" yMax="1897">
       <component glyphName="dotaccent" x="557" y="1532" flags="0x1004"/>
       <component glyphName="F" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="G" xMin="62" yMin="-26" xMax="1144" yMax="1543">
+    <TTGlyph name="G" xMin="63" yMin="-26" xMax="1144" yMax="1543">
       <contour>
         <pt x="930" y="1035" on="1"/>
         <pt x="865" y="1342" on="0"/>
@@ -965,42 +965,42 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="Gacute" xMin="62" yMin="-26" xMax="1144" yMax="2078">
+    <TTGlyph name="Gacute" xMin="63" yMin="-26" xMax="1144" yMax="2078">
       <component glyphName="acute" x="454" y="559" flags="0x1004"/>
       <component glyphName="G" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Gbreve" xMin="62" yMin="-26" xMax="1144" yMax="1890">
+    <TTGlyph name="Gbreve" xMin="63" yMin="-26" xMax="1144" yMax="1890">
       <component glyphName="breve" x="377" y="539" flags="0x1004"/>
       <component glyphName="G" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Gcaron" xMin="62" yMin="-26" xMax="1144" yMax="1997">
+    <TTGlyph name="Gcaron" xMin="63" yMin="-26" xMax="1144" yMax="1997">
       <component glyphName="caron" x="330" y="522" flags="0x1004"/>
       <component glyphName="G" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Gcircumflex" xMin="62" yMin="-26" xMax="1144" yMax="1968">
+    <TTGlyph name="Gcircumflex" xMin="63" yMin="-26" xMax="1144" yMax="1968">
       <component glyphName="asciicircum" x="330" y="522" flags="0x1004"/>
       <component glyphName="G" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Gcommaaccent" xMin="62" yMin="-584" xMax="1144" yMax="1543">
+    <TTGlyph name="Gcommaaccent" xMin="63" yMin="-584" xMax="1144" yMax="1543">
       <component glyphName="comma" x="486" y="-288" flags="0x1004"/>
       <component glyphName="G" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Gdotaccent" xMin="62" yMin="-26" xMax="1144" yMax="1897">
+    <TTGlyph name="Gdotaccent" xMin="63" yMin="-26" xMax="1144" yMax="1897">
       <component glyphName="dotaccent" x="642" y="1532" flags="0x1004"/>
       <component glyphName="G" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Gmacron" xMin="62" yMin="-26" xMax="1144" yMax="1775">
+    <TTGlyph name="Gmacron" xMin="63" yMin="-26" xMax="1144" yMax="1775">
       <component glyphName="macron" x="288" y="423" flags="0x1004"/>
       <component glyphName="G" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="H" xMin="123" yMin="0" xMax="1154" yMax="1515">
+    <TTGlyph name="H" xMin="123" yMin="0" xMax="1153" yMax="1515">
       <contour>
         <pt x="123" y="0" on="1"/>
         <pt x="123" y="1515" on="1"/>
@@ -1019,37 +1019,37 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="Hbrevebelow" xMin="123" yMin="-297" xMax="1154" yMax="1515">
+    <TTGlyph name="Hbrevebelow" xMin="123" yMin="-297" xMax="1153" yMax="1515">
       <component glyphName="breve" x="373" y="-1412" flags="0x1004"/>
       <component glyphName="H" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Hcaron" xMin="123" yMin="0" xMax="1154" yMax="1997">
+    <TTGlyph name="Hcaron" xMin="123" yMin="0" xMax="1153" yMax="1997">
       <component glyphName="caron" x="326" y="522" flags="0x1004"/>
       <component glyphName="H" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Hcedilla" xMin="113" yMin="-336" xMax="1154" yMax="1515">
+    <TTGlyph name="Hcedilla" xMin="114" yMin="-340" xMax="1153" yMax="1515">
       <component glyphName="cedilla" x="107" y="12" flags="0x1004"/>
       <component glyphName="H" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="Hcircumflex" xMin="123" yMin="0" xMax="1154" yMax="1968">
+    <TTGlyph name="Hcircumflex" xMin="123" yMin="0" xMax="1153" yMax="1968">
       <component glyphName="asciicircum" x="326" y="522" flags="0x1004"/>
       <component glyphName="H" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Hdieresis" xMin="123" yMin="0" xMax="1154" yMax="1897">
+    <TTGlyph name="Hdieresis" xMin="123" yMin="0" xMax="1153" yMax="1897">
       <component glyphName="dieresis" x="311" y="451" flags="0x1004"/>
       <component glyphName="H" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Hdotaccent" xMin="123" yMin="0" xMax="1154" yMax="1897">
+    <TTGlyph name="Hdotaccent" xMin="123" yMin="0" xMax="1153" yMax="1897">
       <component glyphName="dotaccent" x="638" y="1532" flags="0x1004"/>
       <component glyphName="H" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Hdotbelow" xMin="123" yMin="-272" xMax="1154" yMax="1515">
+    <TTGlyph name="Hdotbelow" xMin="123" yMin="-272" xMax="1153" yMax="1515">
       <component glyphName="dotaccent" x="638" y="-394" flags="0x1004"/>
       <component glyphName="H" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
@@ -1154,42 +1154,42 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="IJ" xMin="108" yMin="-26" xMax="1214" yMax="1515">
+    <TTGlyph name="IJ" xMin="109" yMin="-26" xMax="1213" yMax="1515">
       <component glyphName="J" x="428" y="0" flags="0x1004"/>
       <component glyphName="I" x="10" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="Iacute" xMin="99" yMin="0" xMax="585" yMax="2089">
+    <TTGlyph name="Iacute" xMin="99" yMin="0" xMax="584" yMax="2089">
       <component glyphName="acutecomb" x="30" y="570" flags="0x1004"/>
       <component glyphName="I" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ibreve" xMin="-12" yMin="0" xMax="457" yMax="1890">
+    <TTGlyph name="Ibreve" xMin="-12" yMin="0" xMax="456" yMax="1890">
       <component glyphName="breve" x="-46" y="539" flags="0x1004"/>
       <component glyphName="I" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Icaron" xMin="-24" yMin="0" xMax="474" yMax="1997">
+    <TTGlyph name="Icaron" xMin="-24" yMin="0" xMax="473" yMax="1997">
       <component glyphName="caron" x="-93" y="522" flags="0x1004"/>
       <component glyphName="I" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Icircumflex" xMin="-24" yMin="0" xMax="474" yMax="2008">
+    <TTGlyph name="Icircumflex" xMin="-24" yMin="0" xMax="473" yMax="2008">
       <component glyphName="circumflex" x="-92" y="531" flags="0x1004"/>
       <component glyphName="I" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Idblgrave" xMin="-103" yMin="0" xMax="694" yMax="2077">
+    <TTGlyph name="Idblgrave" xMin="-103" yMin="0" xMax="693" yMax="2077">
       <component glyphName="dblgravecomb" x="-272" y="559" flags="0x1004"/>
       <component glyphName="I" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Idieresis" xMin="-91" yMin="0" xMax="531" yMax="1908">
+    <TTGlyph name="Idieresis" xMin="-92" yMin="0" xMax="530" yMax="1908">
       <component glyphName="dieresis" x="-108" y="462" flags="0x1004"/>
       <component glyphName="I" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Idieresisacute" xMin="-91" yMin="0" xMax="586" yMax="2350">
+    <TTGlyph name="Idieresisacute" xMin="-92" yMin="0" xMax="585" yMax="2350">
       <component glyphName="acute" x="31" y="831" flags="0x1004"/>
       <component glyphName="Idieresis" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
@@ -1219,7 +1219,7 @@
       <component glyphName="I" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Iogonek" xMin="99" yMin="-337" xMax="375" yMax="1515">
+    <TTGlyph name="Iogonek" xMin="70" yMin="-342" xMax="375" yMax="1515">
       <component glyphName="ogonek" x="84" y="10" flags="0x1004"/>
       <component glyphName="I" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
@@ -1228,17 +1228,17 @@
       <component glyphName="I" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="Itilde" xMin="-129" yMin="0" xMax="576" yMax="1917">
+    <TTGlyph name="Itilde" xMin="-129" yMin="0" xMax="575" yMax="1917">
       <component glyphName="asciitilde" x="-176" y="539" flags="0x1004"/>
       <component glyphName="I" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Itildebelow" xMin="-163" yMin="-322" xMax="542" yMax="1515">
+    <TTGlyph name="Itildebelow" xMin="-163" yMin="-322" xMax="541" yMax="1515">
       <component glyphName="tilde" x="219" y="-441" flags="0x1004"/>
       <component glyphName="I" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="J" xMin="2" yMin="-26" xMax="786" yMax="1515">
+    <TTGlyph name="J" xMin="2" yMin="-26" xMax="785" yMax="1515">
       <contour>
         <pt x="2" y="291" on="1"/>
         <pt x="143" y="363" on="1"/>
@@ -1273,12 +1273,12 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="Jcircumflex" xMin="2" yMin="-26" xMax="944" yMax="1968">
+    <TTGlyph name="Jcircumflex" xMin="2" yMin="-26" xMax="943" yMax="1968">
       <component glyphName="asciicircum" x="377" y="522" flags="0x1004"/>
       <component glyphName="J" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="K" xMin="123" yMin="0" xMax="1150" yMax="1515">
+    <TTGlyph name="K" xMin="123" yMin="0" xMax="1149" yMax="1515">
       <contour>
         <pt x="123" y="0" on="1"/>
         <pt x="123" y="1515" on="1"/>
@@ -1297,32 +1297,32 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="Kacute" xMin="123" yMin="0" xMax="1150" yMax="2078">
+    <TTGlyph name="Kacute" xMin="123" yMin="0" xMax="1149" yMax="2078">
       <component glyphName="acute" x="421" y="559" flags="0x1004"/>
       <component glyphName="K" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Kcaron" xMin="123" yMin="0" xMax="1150" yMax="1997">
+    <TTGlyph name="Kcaron" xMin="123" yMin="0" xMax="1149" yMax="1997">
       <component glyphName="caron" x="297" y="522" flags="0x1004"/>
       <component glyphName="K" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Kcommaaccent" xMin="123" yMin="-568" xMax="1150" yMax="1515">
+    <TTGlyph name="Kcommaaccent" xMin="123" yMin="-568" xMax="1149" yMax="1515">
       <component glyphName="comma" x="480" y="-272" flags="0x1004"/>
       <component glyphName="K" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Kdotbelow" xMin="123" yMin="-272" xMax="1150" yMax="1515">
+    <TTGlyph name="Kdotbelow" xMin="123" yMin="-272" xMax="1149" yMax="1515">
       <component glyphName="dotaccent" x="636" y="-394" flags="0x1004"/>
       <component glyphName="K" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Klinebelow" xMin="123" yMin="-242" xMax="1150" yMax="1515">
+    <TTGlyph name="Klinebelow" xMin="123" yMin="-242" xMax="1149" yMax="1515">
       <component glyphName="macron" x="283" y="-1445" flags="0x1004"/>
       <component glyphName="K" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="L" xMin="123" yMin="0" xMax="989" yMax="1515">
+    <TTGlyph name="L" xMin="123" yMin="0" xMax="988" yMax="1515">
       <contour>
         <pt x="123" y="0" on="1"/>
         <pt x="123" y="1515" on="1"/>
@@ -1335,52 +1335,52 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="LJ" xMin="135" yMin="-26" xMax="1729" yMax="1515">
+    <TTGlyph name="LJ" xMin="135" yMin="-26" xMax="1728" yMax="1515">
       <component glyphName="J" x="943" y="0" flags="0x1004"/>
       <component glyphName="L" x="12" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="Lacute" xMin="123" yMin="0" xMax="989" yMax="2031">
+    <TTGlyph name="Lacute" xMin="123" yMin="0" xMax="988" yMax="2031">
       <component glyphName="acute" x="61" y="512" flags="0x1004"/>
       <component glyphName="L" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Lcaron" xMin="123" yMin="0" xMax="989" yMax="1540">
+    <TTGlyph name="Lcaron" xMin="123" yMin="0" xMax="988" yMax="1540">
       <component glyphName="comma" x="333" y="1343" flags="0x1004"/>
       <component glyphName="L" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="Lcircumflexbelow" xMin="123" yMin="-438" xMax="989" yMax="1515">
+    <TTGlyph name="Lcircumflexbelow" xMin="123" yMin="-438" xMax="988" yMax="1515">
       <component glyphName="asciicircum" x="221" y="-1541" flags="0x1004"/>
       <component glyphName="L" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Lcommaaccent" xMin="123" yMin="-568" xMax="989" yMax="1515">
+    <TTGlyph name="Lcommaaccent" xMin="123" yMin="-568" xMax="988" yMax="1515">
       <component glyphName="comma" x="377" y="-272" flags="0x1004"/>
       <component glyphName="L" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ldot" xMin="123" yMin="0" xMax="989" yMax="1515">
+    <TTGlyph name="Ldot" xMin="123" yMin="0" xMax="988" yMax="1515">
       <component glyphName="periodcentered" x="366" y="-95" flags="0x1004"/>
       <component glyphName="L" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ldotbelow" xMin="123" yMin="-272" xMax="989" yMax="1515">
+    <TTGlyph name="Ldotbelow" xMin="123" yMin="-272" xMax="988" yMax="1515">
       <component glyphName="dotaccent" x="533" y="-394" flags="0x1004"/>
       <component glyphName="L" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ldotbelowmacron" xMin="-57" yMin="-272" xMax="989" yMax="1775">
+    <TTGlyph name="Ldotbelowmacron" xMin="-57" yMin="-272" xMax="988" yMax="1775">
       <component glyphName="macron" x="-156" y="423" flags="0x1004"/>
       <component glyphName="Ldotbelow" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Lj" xMin="135" yMin="-346" xMax="1349" yMax="1515">
+    <TTGlyph name="Lj" xMin="135" yMin="-346" xMax="1348" yMax="1515">
       <component glyphName="j" x="992" y="0" flags="0x1004"/>
       <component glyphName="L" x="12" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="Llinebelow" xMin="123" yMin="-242" xMax="989" yMax="1515">
+    <TTGlyph name="Llinebelow" xMin="123" yMin="-242" xMax="988" yMax="1515">
       <component glyphName="macron" x="180" y="-1445" flags="0x1004"/>
       <component glyphName="L" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
@@ -1423,7 +1423,7 @@
       <component glyphName="M" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="N" xMin="115" yMin="0" xMax="1157" yMax="1515">
+    <TTGlyph name="N" xMin="116" yMin="0" xMax="1156" yMax="1515">
       <contour>
         <pt x="918" y="585" on="1"/>
         <pt x="918" y="1515" on="1"/>
@@ -1440,62 +1440,62 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="NJ" xMin="127" yMin="-26" xMax="2048" yMax="1515">
+    <TTGlyph name="NJ" xMin="128" yMin="-26" xMax="2048" yMax="1515">
       <component glyphName="J" x="1263" y="0" flags="0x1004"/>
       <component glyphName="N" x="12" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="Nacute" xMin="115" yMin="0" xMax="1157" yMax="2031">
+    <TTGlyph name="Nacute" xMin="116" yMin="0" xMax="1156" yMax="2031">
       <component glyphName="acute" x="500" y="512" flags="0x1004"/>
       <component glyphName="N" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ncaron" xMin="115" yMin="0" xMax="1157" yMax="1997">
+    <TTGlyph name="Ncaron" xMin="116" yMin="0" xMax="1156" yMax="1997">
       <component glyphName="caron" x="324" y="522" flags="0x1004"/>
       <component glyphName="N" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ncircumflexbelow" xMin="115" yMin="-438" xMax="1157" yMax="1515">
+    <TTGlyph name="Ncircumflexbelow" xMin="116" yMin="-438" xMax="1156" yMax="1515">
       <component glyphName="asciicircum" x="324" y="-1541" flags="0x1004"/>
       <component glyphName="N" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ncommaaccent" xMin="115" yMin="-568" xMax="1157" yMax="1515">
+    <TTGlyph name="Ncommaaccent" xMin="116" yMin="-568" xMax="1156" yMax="1515">
       <component glyphName="comma" x="480" y="-272" flags="0x1004"/>
       <component glyphName="N" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ndotaccent" xMin="115" yMin="0" xMax="1157" yMax="1897">
+    <TTGlyph name="Ndotaccent" xMin="116" yMin="0" xMax="1156" yMax="1897">
       <component glyphName="dotaccent" x="636" y="1532" flags="0x1004"/>
       <component glyphName="N" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ndotbelow" xMin="115" yMin="-272" xMax="1157" yMax="1515">
+    <TTGlyph name="Ndotbelow" xMin="116" yMin="-272" xMax="1156" yMax="1515">
       <component glyphName="dotaccent" x="636" y="-394" flags="0x1004"/>
       <component glyphName="N" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ngrave" xMin="115" yMin="0" xMax="1157" yMax="2077">
+    <TTGlyph name="Ngrave" xMin="116" yMin="0" xMax="1156" yMax="2077">
       <component glyphName="grave" x="140" y="559" flags="0x1004"/>
       <component glyphName="N" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Nj" xMin="127" yMin="-346" xMax="1620" yMax="1515">
+    <TTGlyph name="Nj" xMin="128" yMin="-346" xMax="1619" yMax="1515">
       <component glyphName="j" x="1263" y="0" flags="0x1004"/>
       <component glyphName="N" x="12" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="Nlinebelow" xMin="115" yMin="-242" xMax="1157" yMax="1515">
+    <TTGlyph name="Nlinebelow" xMin="116" yMin="-242" xMax="1156" yMax="1515">
       <component glyphName="macron" x="282" y="-1445" flags="0x1004"/>
       <component glyphName="N" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ntilde" xMin="115" yMin="0" xMax="1157" yMax="1931">
+    <TTGlyph name="Ntilde" xMin="116" yMin="0" xMax="1156" yMax="1931">
       <component glyphName="tilde" x="635" y="1546" flags="0x1004"/>
       <component glyphName="N" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="O" xMin="63" yMin="-26" xMax="1211" yMax="1543">
+    <TTGlyph name="O" xMin="64" yMin="-26" xMax="1211" yMax="1543">
       <contour>
         <pt x="311" y="910" on="0"/>
         <pt x="303" y="806" on="0"/>
@@ -1545,7 +1545,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="OE" xMin="62" yMin="0" xMax="1679" yMax="1515">
+    <TTGlyph name="OE" xMin="63" yMin="0" xMax="1679" yMax="1515">
       <contour>
         <pt x="774" y="215" on="1"/>
         <pt x="774" y="1314" on="1"/>
@@ -1589,107 +1589,107 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="Oacute" xMin="63" yMin="-26" xMax="1211" yMax="2089">
+    <TTGlyph name="Oacute" xMin="64" yMin="-26" xMax="1211" yMax="2089">
       <component glyphName="acutecomb" x="461" y="570" flags="0x1004"/>
       <component glyphName="O" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Obreve" xMin="63" yMin="-26" xMax="1211" yMax="1890">
+    <TTGlyph name="Obreve" xMin="64" yMin="-26" xMax="1211" yMax="1890">
       <component glyphName="breve" x="382" y="539" flags="0x1004"/>
       <component glyphName="O" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ocaron" xMin="63" yMin="-26" xMax="1211" yMax="1997">
+    <TTGlyph name="Ocaron" xMin="64" yMin="-26" xMax="1211" yMax="1997">
       <component glyphName="caron" x="335" y="522" flags="0x1004"/>
       <component glyphName="O" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ocircumflex" xMin="63" yMin="-26" xMax="1211" yMax="2008">
+    <TTGlyph name="Ocircumflex" xMin="64" yMin="-26" xMax="1211" yMax="2008">
       <component glyphName="circumflex" x="338" y="531" flags="0x1004"/>
       <component glyphName="O" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ocircumflexacute" xMin="63" yMin="-26" xMax="1211" yMax="2487">
+    <TTGlyph name="Ocircumflexacute" xMin="64" yMin="-26" xMax="1211" yMax="2487">
       <component glyphName="acute" x="459" y="968" flags="0x1004"/>
       <component glyphName="Ocircumflex" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ocircumflexdotbelow" xMin="63" yMin="-288" xMax="1211" yMax="1968">
+    <TTGlyph name="Ocircumflexdotbelow" xMin="64" yMin="-288" xMax="1211" yMax="1968">
       <component glyphName="asciicircum" x="335" y="522" flags="0x1004"/>
       <component glyphName="Odotbelow" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ocircumflexgrave" xMin="63" yMin="-26" xMax="1211" yMax="2486">
+    <TTGlyph name="Ocircumflexgrave" xMin="64" yMin="-26" xMax="1211" yMax="2486">
       <component glyphName="grave" x="152" y="968" flags="0x1004"/>
       <component glyphName="Ocircumflex" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ocircumflextilde" xMin="63" yMin="-26" xMax="1211" yMax="2326">
+    <TTGlyph name="Ocircumflextilde" xMin="64" yMin="-26" xMax="1211" yMax="2326">
       <component glyphName="tilde" x="647" y="1941" flags="0x1004"/>
       <component glyphName="Ocircumflex" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Odblgrave" xMin="63" yMin="-26" xMax="1211" yMax="2077">
+    <TTGlyph name="Odblgrave" xMin="64" yMin="-26" xMax="1211" yMax="2077">
       <component glyphName="dblgravecomb" x="152" y="559" flags="0x1004"/>
       <component glyphName="O" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Odieresis" xMin="63" yMin="-26" xMax="1211" yMax="1908">
+    <TTGlyph name="Odieresis" xMin="64" yMin="-26" xMax="1211" yMax="1908">
       <component glyphName="dieresis" x="323" y="462" flags="0x1004"/>
       <component glyphName="O" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Odieresismacron" xMin="63" yMin="-26" xMax="1211" yMax="2099">
+    <TTGlyph name="Odieresismacron" xMin="64" yMin="-26" xMax="1211" yMax="2099">
       <component glyphName="macron" x="252" y="747" flags="0x1004"/>
       <component glyphName="Odieresis" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Odotaccent" xMin="63" yMin="-26" xMax="1211" yMax="1897">
+    <TTGlyph name="Odotaccent" xMin="64" yMin="-26" xMax="1211" yMax="1897">
       <component glyphName="dotaccent" x="647" y="1532" flags="0x1004"/>
       <component glyphName="O" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Odotaccentmacron" xMin="63" yMin="-26" xMax="1211" yMax="2047">
+    <TTGlyph name="Odotaccentmacron" xMin="64" yMin="-26" xMax="1211" yMax="2047">
       <component glyphName="macron" x="294" y="695" flags="0x1004"/>
       <component glyphName="Odotaccent" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Odotbelow" xMin="63" yMin="-288" xMax="1211" yMax="1543">
+    <TTGlyph name="Odotbelow" xMin="64" yMin="-288" xMax="1211" yMax="1543">
       <component glyphName="dotaccent" x="647" y="-410" flags="0x1004"/>
       <component glyphName="O" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ograve" xMin="63" yMin="-26" xMax="1211" yMax="2089">
+    <TTGlyph name="Ograve" xMin="64" yMin="-26" xMax="1211" yMax="2089">
       <component glyphName="gravecomb" x="153" y="571" flags="0x1004"/>
       <component glyphName="O" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ohungarumlaut" xMin="63" yMin="-26" xMax="1211" yMax="2094">
+    <TTGlyph name="Ohungarumlaut" xMin="64" yMin="-26" xMax="1211" yMax="2094">
       <component glyphName="hungarumlaut" x="592" y="1479" flags="0x1004"/>
       <component glyphName="O" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Oinvertedbreve" xMin="63" yMin="-26" xMax="1211" yMax="1890">
+    <TTGlyph name="Oinvertedbreve" xMin="64" yMin="-26" xMax="1211" yMax="1890">
       <component glyphName="breveinvertedcomb" x="382" y="539" flags="0x1004"/>
       <component glyphName="O" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Omacron" xMin="63" yMin="-26" xMax="1211" yMax="1775">
+    <TTGlyph name="Omacron" xMin="64" yMin="-26" xMax="1211" yMax="1775">
       <component glyphName="macron" x="294" y="423" flags="0x1004"/>
       <component glyphName="O" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Omacronacute" xMin="63" yMin="-26" xMax="1211" yMax="2292">
+    <TTGlyph name="Omacronacute" xMin="64" yMin="-26" xMax="1211" yMax="2292">
       <component glyphName="acute" x="459" y="773" flags="0x1004"/>
       <component glyphName="Omacron" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Omacrongrave" xMin="63" yMin="-26" xMax="1211" yMax="2291">
+    <TTGlyph name="Omacrongrave" xMin="64" yMin="-26" xMax="1211" yMax="2291">
       <component glyphName="grave" x="152" y="773" flags="0x1004"/>
       <component glyphName="Omacron" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Oogonek" xMin="63" yMin="-353" xMax="1211" yMax="1543">
+    <TTGlyph name="Oogonek" xMin="64" yMin="-358" xMax="1211" yMax="1543">
       <contour>
         <pt x="677" y="-155" on="1"/>
         <pt x="677" y="-201" on="0"/>
@@ -1752,12 +1752,12 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="Oogonekmacron" xMin="63" yMin="-353" xMax="1211" yMax="1775">
+    <TTGlyph name="Oogonekmacron" xMin="64" yMin="-358" xMax="1211" yMax="1775">
       <component glyphName="macron" x="294" y="423" flags="0x1004"/>
       <component glyphName="Oogonek" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Oopen" xMin="42" yMin="-27" xMax="1123" yMax="1542">
+    <TTGlyph name="Oopen" xMin="42" yMin="-27" xMax="1122" yMax="1542">
       <component glyphName="C" x="1186" y="1516" scale="-1.0" flags="0x1004"/>
     </TTGlyph>
 
@@ -1834,27 +1834,27 @@
       <component glyphName="Oslash" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Otilde" xMin="63" yMin="-26" xMax="1211" yMax="1931">
+    <TTGlyph name="Otilde" xMin="64" yMin="-26" xMax="1211" yMax="1931">
       <component glyphName="tilde" x="648" y="1546" flags="0x1004"/>
       <component glyphName="O" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Otildeacute" xMin="63" yMin="-26" xMax="1211" yMax="2397">
+    <TTGlyph name="Otildeacute" xMin="64" yMin="-26" xMax="1211" yMax="2397">
       <component glyphName="acute" x="488" y="878" flags="0x1004"/>
       <component glyphName="Otilde" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Otildedieresis" xMin="63" yMin="-26" xMax="1211" yMax="2216">
+    <TTGlyph name="Otildedieresis" xMin="64" yMin="-26" xMax="1211" yMax="2216">
       <component glyphName="dieresis" x="325" y="770" flags="0x1004"/>
       <component glyphName="Otilde" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Otildemacron" xMin="63" yMin="-26" xMax="1211" yMax="2094">
+    <TTGlyph name="Otildemacron" xMin="64" yMin="-26" xMax="1211" yMax="2094">
       <component glyphName="macron" x="295" y="742" flags="0x1004"/>
       <component glyphName="Otilde" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="P" xMin="123" yMin="0" xMax="1101" yMax="1515">
+    <TTGlyph name="P" xMin="123" yMin="0" xMax="1100" yMax="1515">
       <contour>
         <pt x="861" y="1115" on="1"/>
         <pt x="861" y="1314" on="0"/>
@@ -1884,17 +1884,17 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="Pacute" xMin="123" yMin="0" xMax="1101" yMax="2078">
+    <TTGlyph name="Pacute" xMin="123" yMin="0" xMax="1100" yMax="2078">
       <component glyphName="acute" x="343" y="559" flags="0x1004"/>
       <component glyphName="P" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Pdotaccent" xMin="123" yMin="0" xMax="1101" yMax="1897">
+    <TTGlyph name="Pdotaccent" xMin="123" yMin="0" xMax="1100" yMax="1897">
       <component glyphName="dotaccent" x="533" y="1532" flags="0x1004"/>
       <component glyphName="P" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Q" xMin="63" yMin="-283" xMax="1211" yMax="1543">
+    <TTGlyph name="Q" xMin="64" yMin="-283" xMax="1211" yMax="1543">
       <contour>
         <pt x="311" y="910" on="0"/>
         <pt x="303" y="806" on="0"/>
@@ -1964,7 +1964,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="R" xMin="123" yMin="0" xMax="1104" yMax="1515">
+    <TTGlyph name="R" xMin="123" yMin="0" xMax="1103" yMax="1515">
       <contour>
         <pt x="362" y="859" on="1"/>
         <pt x="615" y="859" on="1"/>
@@ -1998,52 +1998,52 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="Racute" xMin="123" yMin="0" xMax="1104" yMax="2031">
+    <TTGlyph name="Racute" xMin="123" yMin="0" xMax="1103" yMax="2031">
       <component glyphName="acute" x="265" y="512" flags="0x1004"/>
       <component glyphName="R" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Rcaron" xMin="123" yMin="0" xMax="1104" yMax="1997">
+    <TTGlyph name="Rcaron" xMin="123" yMin="0" xMax="1103" yMax="1997">
       <component glyphName="caron" x="257" y="522" flags="0x1004"/>
       <component glyphName="R" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Rcommaaccent" xMin="123" yMin="-568" xMax="1104" yMax="1515">
+    <TTGlyph name="Rcommaaccent" xMin="123" yMin="-568" xMax="1103" yMax="1515">
       <component glyphName="comma" x="453" y="-272" flags="0x1004"/>
       <component glyphName="R" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Rdblgrave" xMin="123" yMin="0" xMax="1104" yMax="2077">
+    <TTGlyph name="Rdblgrave" xMin="123" yMin="0" xMax="1103" yMax="2077">
       <component glyphName="dblgravecomb" x="69" y="559" flags="0x1004"/>
       <component glyphName="R" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Rdotaccent" xMin="123" yMin="0" xMax="1104" yMax="1897">
+    <TTGlyph name="Rdotaccent" xMin="123" yMin="0" xMax="1103" yMax="1897">
       <component glyphName="dotaccent" x="551" y="1532" flags="0x1004"/>
       <component glyphName="R" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Rdotbelow" xMin="123" yMin="-272" xMax="1104" yMax="1515">
+    <TTGlyph name="Rdotbelow" xMin="123" yMin="-272" xMax="1103" yMax="1515">
       <component glyphName="dotaccent" x="609" y="-394" flags="0x1004"/>
       <component glyphName="R" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Rdotbelowmacron" xMin="123" yMin="-272" xMax="1104" yMax="1775">
+    <TTGlyph name="Rdotbelowmacron" xMin="123" yMin="-272" xMax="1103" yMax="1775">
       <component glyphName="macron" x="197" y="423" flags="0x1004"/>
       <component glyphName="Rdotbelow" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Rinvertedbreve" xMin="123" yMin="0" xMax="1104" yMax="1890">
+    <TTGlyph name="Rinvertedbreve" xMin="123" yMin="0" xMax="1103" yMax="1890">
       <component glyphName="breveinvertedcomb" x="259" y="539" flags="0x1004"/>
       <component glyphName="R" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Rlinebelow" xMin="123" yMin="-242" xMax="1104" yMax="1515">
+    <TTGlyph name="Rlinebelow" xMin="123" yMin="-242" xMax="1103" yMax="1515">
       <component glyphName="macron" x="256" y="-1445" flags="0x1004"/>
       <component glyphName="R" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="S" xMin="24" yMin="-26" xMax="1011" yMax="1543">
+    <TTGlyph name="S" xMin="24" yMin="-26" xMax="1010" yMax="1543">
       <contour>
         <pt x="24" y="388" on="1"/>
         <pt x="216" y="451" on="1"/>
@@ -2116,27 +2116,27 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="Sacute" xMin="24" yMin="-26" xMax="1011" yMax="2078">
+    <TTGlyph name="Sacute" xMin="24" yMin="-26" xMax="1010" yMax="2078">
       <component glyphName="acute" x="310" y="559" flags="0x1004"/>
       <component glyphName="S" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Sacutedotaccent" xMin="24" yMin="-26" xMax="1011" yMax="2250">
+    <TTGlyph name="Sacutedotaccent" xMin="24" yMin="-26" xMax="1010" yMax="2250">
       <component glyphName="dotaccent" x="508" y="1885" flags="0x1004"/>
       <component glyphName="Sacute" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Scaron" xMin="24" yMin="-26" xMax="1011" yMax="1997">
+    <TTGlyph name="Scaron" xMin="24" yMin="-26" xMax="1010" yMax="1997">
       <component glyphName="caron" x="186" y="522" flags="0x1004"/>
       <component glyphName="S" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Scarondotaccent" xMin="24" yMin="-26" xMax="1011" yMax="2306">
+    <TTGlyph name="Scarondotaccent" xMin="24" yMin="-26" xMax="1010" yMax="2306">
       <component glyphName="dotaccent" x="500" y="1941" flags="0x1004"/>
       <component glyphName="Scaron" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Scedilla" xMin="24" yMin="-353" xMax="1011" yMax="1543">
+    <TTGlyph name="Scedilla" xMin="24" yMin="-358" xMax="1010" yMax="1543">
       <contour>
         <pt x="24" y="388" on="1"/>
         <pt x="216" y="451" on="1"/>
@@ -2222,32 +2222,32 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="Scircumflex" xMin="24" yMin="-26" xMax="1011" yMax="1968">
+    <TTGlyph name="Scircumflex" xMin="24" yMin="-26" xMax="1010" yMax="1968">
       <component glyphName="asciicircum" x="186" y="522" flags="0x1004"/>
       <component glyphName="S" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Scommaaccent" xMin="24" yMin="-584" xMax="1011" yMax="1543">
+    <TTGlyph name="Scommaaccent" xMin="24" yMin="-584" xMax="1010" yMax="1543">
       <component glyphName="comma" x="365" y="-288" flags="0x1004"/>
       <component glyphName="S" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Sdotaccent" xMin="24" yMin="-26" xMax="1011" yMax="1897">
+    <TTGlyph name="Sdotaccent" xMin="24" yMin="-26" xMax="1010" yMax="1897">
       <component glyphName="dotaccent" x="498" y="1532" flags="0x1004"/>
       <component glyphName="S" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Sdotbelow" xMin="24" yMin="-288" xMax="1011" yMax="1543">
+    <TTGlyph name="Sdotbelow" xMin="24" yMin="-288" xMax="1010" yMax="1543">
       <component glyphName="dotaccent" x="563" y="-410" flags="0x1004"/>
       <component glyphName="S" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Sdotbelowdotaccent" xMin="24" yMin="-288" xMax="1011" yMax="1897">
+    <TTGlyph name="Sdotbelowdotaccent" xMin="24" yMin="-288" xMax="1010" yMax="1897">
       <component glyphName="dotaccent" x="498" y="1532" flags="0x1004"/>
       <component glyphName="Sdotbelow" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ssharp" xMin="123" yMin="-17" xMax="1447" yMax="1556">
+    <TTGlyph name="Ssharp" xMin="123" yMin="-17" xMax="1446" yMax="1556">
       <contour>
         <pt x="1388" y="1329" on="1"/>
         <pt x="990" y="936" on="1"/>
@@ -2300,7 +2300,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="T" xMin="2" yMin="0" xMax="1060" yMax="1515">
+    <TTGlyph name="T" xMin="2" yMin="0" xMax="1059" yMax="1515">
       <contour>
         <pt x="2" y="1314" on="1"/>
         <pt x="2" y="1515" on="1"/>
@@ -2315,22 +2315,22 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="T_comma" xMin="2" yMin="-568" xMax="1060" yMax="1515">
+    <TTGlyph name="T_comma" xMin="2" yMin="-568" xMax="1059" yMax="1515">
       <component glyphName="comma" x="375" y="-272" flags="0x1004"/>
       <component glyphName="T" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Tcaron" xMin="2" yMin="0" xMax="1060" yMax="1997">
+    <TTGlyph name="Tcaron" xMin="2" yMin="0" xMax="1059" yMax="1997">
       <component glyphName="caron" x="219" y="522" flags="0x1004"/>
       <component glyphName="T" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Tcircumflexbelow" xMin="2" yMin="-438" xMax="1060" yMax="1515">
+    <TTGlyph name="Tcircumflexbelow" xMin="2" yMin="-438" xMax="1059" yMax="1515">
       <component glyphName="asciicircum" x="219" y="-1541" flags="0x1004"/>
       <component glyphName="T" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Tcommaaccent" xMin="2" yMin="-337" xMax="1060" yMax="1515">
+    <TTGlyph name="Tcommaaccent" xMin="2" yMin="-342" xMax="1059" yMax="1515">
       <contour>
         <pt x="2" y="1314" on="1"/>
         <pt x="2" y="1515" on="1"/>
@@ -2357,17 +2357,17 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="Tdotaccent" xMin="2" yMin="0" xMax="1060" yMax="1897">
+    <TTGlyph name="Tdotaccent" xMin="2" yMin="0" xMax="1059" yMax="1897">
       <component glyphName="dotaccent" x="531" y="1532" flags="0x1004"/>
       <component glyphName="T" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Tdotbelow" xMin="2" yMin="-272" xMax="1060" yMax="1515">
+    <TTGlyph name="Tdotbelow" xMin="2" yMin="-272" xMax="1059" yMax="1515">
       <component glyphName="dotaccent" x="531" y="-394" flags="0x1004"/>
       <component glyphName="T" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Thorn" xMin="125" yMin="0" xMax="1100" yMax="1515">
+    <TTGlyph name="Thorn" xMin="125" yMin="0" xMax="1099" yMax="1515">
       <contour>
         <pt x="365" y="519" on="1"/>
         <pt x="503" y="519" on="1"/>
@@ -2401,12 +2401,12 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="Tlinebelow" xMin="2" yMin="-242" xMax="1060" yMax="1515">
+    <TTGlyph name="Tlinebelow" xMin="2" yMin="-242" xMax="1059" yMax="1515">
       <component glyphName="macron" x="178" y="-1445" flags="0x1004"/>
       <component glyphName="T" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="U" xMin="123" yMin="-26" xMax="1120" yMax="1515">
+    <TTGlyph name="U" xMin="123" yMin="-26" xMax="1119" yMax="1515">
       <contour>
         <pt x="123" y="448" on="1"/>
         <pt x="123" y="1515" on="1"/>
@@ -2438,117 +2438,117 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="Uacute" xMin="123" yMin="-26" xMax="1120" yMax="2089">
+    <TTGlyph name="Uacute" xMin="123" yMin="-26" xMax="1119" yMax="2089">
       <component glyphName="acutecomb" x="433" y="570" flags="0x1004"/>
       <component glyphName="U" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ubreve" xMin="123" yMin="-26" xMax="1120" yMax="1890">
+    <TTGlyph name="Ubreve" xMin="123" yMin="-26" xMax="1119" yMax="1890">
       <component glyphName="breve" x="355" y="539" flags="0x1004"/>
       <component glyphName="U" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ucaron" xMin="123" yMin="-26" xMax="1120" yMax="1997">
+    <TTGlyph name="Ucaron" xMin="123" yMin="-26" xMax="1119" yMax="1997">
       <component glyphName="caron" x="309" y="522" flags="0x1004"/>
       <component glyphName="U" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ucircumflex" xMin="123" yMin="-26" xMax="1120" yMax="2008">
+    <TTGlyph name="Ucircumflex" xMin="123" yMin="-26" xMax="1119" yMax="2008">
       <component glyphName="circumflex" x="311" y="531" flags="0x1004"/>
       <component glyphName="U" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ucircumflexbelow" xMin="123" yMin="-454" xMax="1120" yMax="1515">
+    <TTGlyph name="Ucircumflexbelow" xMin="123" yMin="-454" xMax="1119" yMax="1515">
       <component glyphName="asciicircum" x="308" y="-1557" flags="0x1004"/>
       <component glyphName="U" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Udblgrave" xMin="123" yMin="-26" xMax="1120" yMax="2077">
+    <TTGlyph name="Udblgrave" xMin="123" yMin="-26" xMax="1119" yMax="2077">
       <component glyphName="dblgravecomb" x="115" y="559" flags="0x1004"/>
       <component glyphName="U" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Udieresis" xMin="123" yMin="-26" xMax="1120" yMax="1908">
+    <TTGlyph name="Udieresis" xMin="123" yMin="-26" xMax="1119" yMax="1908">
       <component glyphName="dieresis" x="295" y="462" flags="0x1004"/>
       <component glyphName="U" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Udieresisacute" xMin="123" yMin="-26" xMax="1120" yMax="2454">
+    <TTGlyph name="Udieresisacute" xMin="123" yMin="-26" xMax="1119" yMax="2454">
       <component glyphName="acutecomb" x="433" y="935" flags="0x1004"/>
       <component glyphName="Udieresis" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Udieresisbelow" xMin="123" yMin="-288" xMax="1120" yMax="1515">
+    <TTGlyph name="Udieresisbelow" xMin="123" yMin="-288" xMax="1119" yMax="1515">
       <component glyphName="dieresis" x="293" y="-1491" flags="0x1004"/>
       <component glyphName="U" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Udieresiscaron" xMin="123" yMin="-26" xMax="1120" yMax="2373">
+    <TTGlyph name="Udieresiscaron" xMin="123" yMin="-26" xMax="1119" yMax="2373">
       <component glyphName="caron" x="310" y="898" flags="0x1004"/>
       <component glyphName="Udieresis" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Udieresisgrave" xMin="123" yMin="-26" xMax="1120" yMax="2454">
+    <TTGlyph name="Udieresisgrave" xMin="123" yMin="-26" xMax="1119" yMax="2454">
       <component glyphName="gravecomb" x="125" y="936" flags="0x1004"/>
       <component glyphName="Udieresis" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Udieresismacron" xMin="123" yMin="-26" xMax="1120" yMax="2179">
+    <TTGlyph name="Udieresismacron" xMin="123" yMin="-26" xMax="1119" yMax="2179">
       <component glyphName="macron" x="227" y="827" flags="0x1004"/>
       <component glyphName="Udieresis" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Udotbelow" xMin="123" yMin="-288" xMax="1120" yMax="1515">
+    <TTGlyph name="Udotbelow" xMin="123" yMin="-288" xMax="1119" yMax="1515">
       <component glyphName="dotaccent" x="620" y="-410" flags="0x1004"/>
       <component glyphName="U" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ugrave" xMin="123" yMin="-26" xMax="1120" yMax="2089">
+    <TTGlyph name="Ugrave" xMin="123" yMin="-26" xMax="1119" yMax="2089">
       <component glyphName="gravecomb" x="125" y="571" flags="0x1004"/>
       <component glyphName="U" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Uhungarumlaut" xMin="123" yMin="-26" xMax="1120" yMax="2024">
+    <TTGlyph name="Uhungarumlaut" xMin="123" yMin="-26" xMax="1119" yMax="2024">
       <component glyphName="hungarumlaut" x="570" y="1409" flags="0x1004"/>
       <component glyphName="U" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Uinvertedbreve" xMin="123" yMin="-26" xMax="1120" yMax="1890">
+    <TTGlyph name="Uinvertedbreve" xMin="123" yMin="-26" xMax="1119" yMax="1890">
       <component glyphName="breveinvertedcomb" x="356" y="539" flags="0x1004"/>
       <component glyphName="U" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Umacron" xMin="123" yMin="-26" xMax="1120" yMax="1775">
+    <TTGlyph name="Umacron" xMin="123" yMin="-26" xMax="1119" yMax="1775">
       <component glyphName="macron" x="266" y="423" flags="0x1004"/>
       <component glyphName="U" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Umacrondieresis" xMin="123" yMin="-26" xMax="1120" yMax="2111">
+    <TTGlyph name="Umacrondieresis" xMin="123" yMin="-26" xMax="1119" yMax="2111">
       <component glyphName="dieresis" x="293" y="665" flags="0x1004"/>
       <component glyphName="Umacron" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Uring" xMin="123" yMin="-26" xMax="1120" yMax="2202">
+    <TTGlyph name="Uring" xMin="123" yMin="-26" xMax="1119" yMax="2202">
       <component glyphName="degree" x="273" y="674" flags="0x1004"/>
       <component glyphName="U" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Utilde" xMin="123" yMin="-26" xMax="1120" yMax="1917">
+    <TTGlyph name="Utilde" xMin="123" yMin="-26" xMax="1119" yMax="1917">
       <component glyphName="asciitilde" x="225" y="539" flags="0x1004"/>
       <component glyphName="U" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Utildeacute" xMin="123" yMin="-26" xMax="1120" yMax="2397">
+    <TTGlyph name="Utildeacute" xMin="123" yMin="-26" xMax="1119" yMax="2397">
       <component glyphName="acute" x="480" y="878" flags="0x1004"/>
       <component glyphName="Utilde" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Utildebelow" xMin="123" yMin="-338" xMax="1120" yMax="1515">
+    <TTGlyph name="Utildebelow" xMin="123" yMin="-338" xMax="1119" yMax="1515">
       <component glyphName="tilde" x="620" y="-457" flags="0x1004"/>
       <component glyphName="U" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="V" xMin="2" yMin="0" xMax="1103" yMax="1515">
+    <TTGlyph name="V" xMin="2" yMin="0" xMax="1102" yMax="1515">
       <contour>
         <pt x="552" y="516" on="1"/>
         <pt x="849" y="1515" on="1"/>
@@ -2562,7 +2562,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="Vdotbelow" xMin="2" yMin="-272" xMax="1103" yMax="1515">
+    <TTGlyph name="Vdotbelow" xMin="2" yMin="-272" xMax="1102" yMax="1515">
       <component glyphName="dotaccent" x="552" y="-394" flags="0x1004"/>
       <component glyphName="V" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
@@ -2656,12 +2656,12 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="Vtilde" xMin="2" yMin="0" xMax="1103" yMax="1917">
+    <TTGlyph name="Vtilde" xMin="2" yMin="0" xMax="1102" yMax="1917">
       <component glyphName="tilde" x="552" y="1532" flags="0x1004"/>
       <component glyphName="V" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Vturned" xMin="1" yMin="0" xMax="1102" yMax="1515">
+    <TTGlyph name="Vturned" xMin="2" yMin="0" xMax="1102" yMax="1515">
       <component glyphName="V" x="1104" y="1515" scale="-1.0" flags="0x1004"/>
     </TTGlyph>
 
@@ -2718,7 +2718,7 @@
       <component glyphName="W" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="X" xMin="2" yMin="0" xMax="1105" yMax="1515">
+    <TTGlyph name="X" xMin="2" yMin="0" xMax="1104" yMax="1515">
       <contour>
         <pt x="1104" y="0" on="1"/>
         <pt x="858" y="0" on="1"/>
@@ -2737,17 +2737,17 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="Xdieresis" xMin="2" yMin="0" xMax="1105" yMax="1897">
+    <TTGlyph name="Xdieresis" xMin="2" yMin="0" xMax="1104" yMax="1897">
       <component glyphName="dieresis" x="228" y="451" flags="0x1004"/>
       <component glyphName="X" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Xdotaccent" xMin="2" yMin="0" xMax="1105" yMax="1897">
+    <TTGlyph name="Xdotaccent" xMin="2" yMin="0" xMax="1104" yMax="1897">
       <component glyphName="dotaccent" x="554" y="1532" flags="0x1004"/>
       <component glyphName="X" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Y" xMin="2" yMin="0" xMax="1121" yMax="1515">
+    <TTGlyph name="Y" xMin="2" yMin="0" xMax="1120" yMax="1515">
       <contour>
         <pt x="680" y="701" on="1"/>
         <pt x="680" y="0" on="1"/>
@@ -2763,42 +2763,42 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="Yacute" xMin="2" yMin="0" xMax="1121" yMax="2089">
+    <TTGlyph name="Yacute" xMin="2" yMin="0" xMax="1120" yMax="2089">
       <component glyphName="acutecomb" x="373" y="570" flags="0x1004"/>
       <component glyphName="Y" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ycircumflex" xMin="2" yMin="0" xMax="1121" yMax="1968">
+    <TTGlyph name="Ycircumflex" xMin="2" yMin="0" xMax="1120" yMax="1968">
       <component glyphName="asciicircum" x="249" y="522" flags="0x1004"/>
       <component glyphName="Y" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ydieresis" xMin="2" yMin="0" xMax="1121" yMax="1897">
+    <TTGlyph name="Ydieresis" xMin="2" yMin="0" xMax="1120" yMax="1897">
       <component glyphName="dieresis" x="234" y="451" flags="0x1004"/>
       <component glyphName="Y" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ydotaccent" xMin="2" yMin="0" xMax="1121" yMax="1897">
+    <TTGlyph name="Ydotaccent" xMin="2" yMin="0" xMax="1120" yMax="1897">
       <component glyphName="dotaccent" x="561" y="1532" flags="0x1004"/>
       <component glyphName="Y" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ydotbelow" xMin="2" yMin="-272" xMax="1121" yMax="1515">
+    <TTGlyph name="Ydotbelow" xMin="2" yMin="-272" xMax="1120" yMax="1515">
       <component glyphName="dotaccent" x="561" y="-394" flags="0x1004"/>
       <component glyphName="Y" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ygrave" xMin="2" yMin="0" xMax="1121" yMax="2077">
+    <TTGlyph name="Ygrave" xMin="2" yMin="0" xMax="1120" yMax="2077">
       <component glyphName="grave" x="66" y="559" flags="0x1004"/>
       <component glyphName="Y" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ymacron" xMin="2" yMin="0" xMax="1121" yMax="1775">
+    <TTGlyph name="Ymacron" xMin="2" yMin="0" xMax="1120" yMax="1775">
       <component glyphName="macron" x="208" y="423" flags="0x1004"/>
       <component glyphName="Y" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Ytilde" xMin="2" yMin="0" xMax="1121" yMax="1917">
+    <TTGlyph name="Ytilde" xMin="2" yMin="0" xMax="1120" yMax="1917">
       <component glyphName="tilde" x="561" y="1532" flags="0x1004"/>
       <component glyphName="Y" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
@@ -2850,7 +2850,7 @@
       <component glyphName="Z" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="a" xMin="70" yMin="-21" xMax="883" yMax="1070">
+    <TTGlyph name="a" xMin="70" yMin="-21" xMax="882" yMax="1070">
       <contour>
         <pt x="284" y="272" on="1"/>
         <pt x="284" y="213" on="0"/>
@@ -2919,67 +2919,67 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="aacute" xMin="70" yMin="-21" xMax="907" yMax="1565">
+    <TTGlyph name="aacute" xMin="70" yMin="-21" xMax="906" yMax="1565">
       <component glyphName="acute" x="352" y="46" flags="0x1004"/>
       <component glyphName="a" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="abreve" xMin="70" yMin="-21" xMax="883" yMax="1424">
+    <TTGlyph name="abreve" xMin="70" yMin="-21" xMax="882" yMax="1424">
       <component glyphName="breve" x="153" y="73" flags="0x1004"/>
       <component glyphName="a" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="abreveacute" xMin="70" yMin="-21" xMax="883" yMax="1909">
+    <TTGlyph name="abreveacute" xMin="70" yMin="-21" xMax="882" yMax="1909">
       <component glyphName="acute" x="230" y="390" flags="0x1004"/>
       <component glyphName="abreve" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="abrevedotbelow" xMin="70" yMin="-279" xMax="883" yMax="1424">
+    <TTGlyph name="abrevedotbelow" xMin="70" yMin="-279" xMax="882" yMax="1424">
       <component glyphName="breve" x="153" y="73" flags="0x1004"/>
       <component glyphName="adotbelow" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="abrevegrave" xMin="70" yMin="-21" xMax="883" yMax="1908">
+    <TTGlyph name="abrevegrave" xMin="70" yMin="-21" xMax="882" yMax="1908">
       <component glyphName="grave" x="-77" y="390" flags="0x1004"/>
       <component glyphName="abreve" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="abrevetilde" xMin="37" yMin="-21" xMax="883" yMax="1748">
+    <TTGlyph name="abrevetilde" xMin="36" yMin="-21" xMax="882" yMax="1748">
       <component glyphName="tilde" x="418" y="1363" flags="0x1004"/>
       <component glyphName="abreve" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="acaron" xMin="70" yMin="-21" xMax="883" yMax="1531">
+    <TTGlyph name="acaron" xMin="70" yMin="-21" xMax="882" yMax="1531">
       <component glyphName="caron" x="106" y="56" flags="0x1004"/>
       <component glyphName="a" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="acircumflex" xMin="70" yMin="-21" xMax="883" yMax="1502">
+    <TTGlyph name="acircumflex" xMin="70" yMin="-21" xMax="882" yMax="1502">
       <component glyphName="asciicircum" x="186" y="56" flags="0x1004"/>
       <component glyphName="a" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="acircumflexacute" xMin="70" yMin="-21" xMax="883" yMax="2021">
+    <TTGlyph name="acircumflexacute" xMin="70" yMin="-21" xMax="882" yMax="2021">
       <component glyphName="acute" x="230" y="502" flags="0x1004"/>
       <component glyphName="acircumflex" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="acircumflexdotbelow" xMin="70" yMin="-279" xMax="883" yMax="1502">
+    <TTGlyph name="acircumflexdotbelow" xMin="70" yMin="-279" xMax="882" yMax="1502">
       <component glyphName="asciicircum" x="106" y="56" flags="0x1004"/>
       <component glyphName="adotbelow" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="acircumflexgrave" xMin="70" yMin="-21" xMax="883" yMax="2020">
+    <TTGlyph name="acircumflexgrave" xMin="70" yMin="-21" xMax="882" yMax="2020">
       <component glyphName="grave" x="-77" y="502" flags="0x1004"/>
       <component glyphName="acircumflex" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="acircumflextilde" xMin="37" yMin="-21" xMax="883" yMax="1860">
+    <TTGlyph name="acircumflextilde" xMin="36" yMin="-21" xMax="882" yMax="1860">
       <component glyphName="tilde" x="418" y="1475" flags="0x1004"/>
       <component glyphName="acircumflex" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="acute" xMin="111" yMin="1095" xMax="555" yMax="1519">
+    <TTGlyph name="acute" xMin="111" yMin="1095" xMax="554" yMax="1519">
       <contour>
         <pt x="554" y="1396" on="1"/>
         <pt x="198" y="1095" on="1"/>
@@ -2990,45 +2990,45 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="acutecomb" xMin="111" yMin="1095" xMax="555" yMax="1519">
+    <TTGlyph name="acutecomb" xMin="111" yMin="1095" xMax="554" yMax="1519">
       <component glyphName="acute" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="acutetonecomb" xMin="111" yMin="1095" xMax="555" yMax="1519">
+    <TTGlyph name="acutetonecomb" xMin="111" yMin="1095" xMax="554" yMax="1519">
       <component glyphName="acutecomb" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="adblgrave" xMin="70" yMin="-21" xMax="884" yMax="1611">
+    <TTGlyph name="adblgrave" xMin="70" yMin="-21" xMax="883" yMax="1611">
       <component glyphName="dblgravecomb" x="-82" y="93" flags="0x1004"/>
       <component glyphName="a" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="adieresis" xMin="70" yMin="-21" xMax="883" yMax="1431">
+    <TTGlyph name="adieresis" xMin="70" yMin="-21" xMax="882" yMax="1431">
       <component glyphName="dieresis" x="154" y="-15" flags="0x1004"/>
       <component glyphName="a" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="adieresismacron" xMin="70" yMin="-21" xMax="883" yMax="1702">
+    <TTGlyph name="adieresismacron" xMin="70" yMin="-21" xMax="882" yMax="1702">
       <component glyphName="macron" x="86" y="350" flags="0x1004"/>
       <component glyphName="adieresis" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="adotaccent" xMin="70" yMin="-21" xMax="883" yMax="1431">
+    <TTGlyph name="adotaccent" xMin="70" yMin="-21" xMax="882" yMax="1431">
       <component glyphName="dotaccent" x="418" y="1066" flags="0x1004"/>
       <component glyphName="a" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="adotbelow" xMin="70" yMin="-279" xMax="883" yMax="1070">
+    <TTGlyph name="adotbelow" xMin="70" yMin="-279" xMax="882" yMax="1070">
       <component glyphName="dotaccent" x="370" y="-401" flags="0x1004"/>
       <component glyphName="a" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="adotmacron" xMin="70" yMin="-21" xMax="883" yMax="1702">
+    <TTGlyph name="adotmacron" xMin="70" yMin="-21" xMax="882" yMax="1702">
       <component glyphName="macron" x="26" y="350" flags="0x1004"/>
       <component glyphName="adotaccent" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ae" xMin="57" yMin="-21" xMax="1446" yMax="1073">
+    <TTGlyph name="ae" xMin="57" yMin="-21" xMax="1449" yMax="1073">
       <contour>
         <pt x="851" y="654" on="1"/>
         <pt x="1221" y="654" on="1"/>
@@ -3125,27 +3125,27 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="aeacute" xMin="57" yMin="-21" xMax="1446" yMax="1612">
+    <TTGlyph name="aeacute" xMin="57" yMin="-21" xMax="1449" yMax="1612">
       <component glyphName="acute" x="595" y="93" flags="0x1004"/>
       <component glyphName="ae" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="aemacron" xMin="57" yMin="-21" xMax="1446" yMax="1309">
+    <TTGlyph name="aemacron" xMin="57" yMin="-21" xMax="1449" yMax="1309">
       <component glyphName="macron" x="429" y="-43" flags="0x1004"/>
       <component glyphName="ae" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="agrave" xMin="70" yMin="-21" xMax="883" yMax="1619">
+    <TTGlyph name="agrave" xMin="70" yMin="-21" xMax="882" yMax="1619">
       <component glyphName="gravecomb" x="-1" y="101" flags="0x1004"/>
       <component glyphName="a" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ainvertedbreve" xMin="70" yMin="-21" xMax="883" yMax="1424">
+    <TTGlyph name="ainvertedbreve" xMin="70" yMin="-21" xMax="882" yMax="1424">
       <component glyphName="breveinvertedcomb" x="153" y="73" flags="0x1004"/>
       <component glyphName="a" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="amacron" xMin="70" yMin="-21" xMax="883" yMax="1309">
+    <TTGlyph name="amacron" xMin="70" yMin="-21" xMax="882" yMax="1309">
       <component glyphName="macron" x="64" y="-43" flags="0x1004"/>
       <component glyphName="a" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
@@ -3221,7 +3221,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="aogonek" xMin="70" yMin="-347" xMax="1016" yMax="1070">
+    <TTGlyph name="aogonek" xMin="70" yMin="-352" xMax="1016" yMax="1070">
       <contour>
         <pt x="891" y="-149" on="1"/>
         <pt x="891" y="-195" on="0"/>
@@ -3308,26 +3308,26 @@
       <component glyphName="quotesingle" x="0" y="45" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="aring" xMin="70" yMin="-21" xMax="883" yMax="1699">
+    <TTGlyph name="aring" xMin="70" yMin="-21" xMax="882" yMax="1699">
       <component glyphName="degree" x="114" y="171" flags="0x1004"/>
       <component glyphName="a" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="aringacute" xMin="70" yMin="-21" xMax="883" yMax="2247">
+    <TTGlyph name="aringacute" xMin="70" yMin="-21" xMax="882" yMax="2247">
       <component glyphName="acute" x="228" y="728" flags="0x1004"/>
       <component glyphName="aring" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="aringbelow" xMin="70" yMin="-676" xMax="883" yMax="1070">
+    <TTGlyph name="aringbelow" xMin="70" yMin="-676" xMax="882" yMax="1070">
       <component glyphName="ring" x="402" y="-772" flags="0x1004"/>
       <component glyphName="a" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="arrowheadupmod" xMin="68" yMin="1134" xMax="566" yMax="1477">
+    <TTGlyph name="arrowheadupmod" xMin="68" yMin="1134" xMax="565" yMax="1477">
       <component glyphName="asciicircum" x="-1" y="31" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="asciicircum" xMin="69" yMin="1103" xMax="567" yMax="1446">
+    <TTGlyph name="asciicircum" xMin="69" yMin="1103" xMax="566" yMax="1446">
       <contour>
         <pt x="69" y="1198" on="1"/>
         <pt x="317" y="1446" on="1"/>
@@ -3340,7 +3340,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="asciitilde" xMin="47" yMin="1112" xMax="752" yMax="1378">
+    <TTGlyph name="asciitilde" xMin="47" yMin="1112" xMax="751" yMax="1378">
       <contour>
         <pt x="751" y="1312" on="1"/>
         <pt x="680" y="1112" on="0"/>
@@ -3367,7 +3367,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="asterisk" xMin="24" yMin="382" xMax="667" yMax="986">
+    <TTGlyph name="asterisk" xMin="24" yMin="382" xMax="666" yMax="986">
       <contour>
         <pt x="24" y="698" on="1"/>
         <pt x="73" y="846" on="1"/>
@@ -3389,7 +3389,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="asteriskmath" xMin="24" yMin="382" xMax="667" yMax="986">
+    <TTGlyph name="asteriskmath" xMin="24" yMin="382" xMax="666" yMax="986">
       <component glyphName="asterisk" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
@@ -3478,16 +3478,16 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="atilde" xMin="70" yMin="-21" xMax="883" yMax="1451">
+    <TTGlyph name="atilde" xMin="70" yMin="-21" xMax="882" yMax="1451">
       <component glyphName="asciitilde" x="88" y="73" flags="0x1004"/>
       <component glyphName="a" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="aturned" xMin="33" yMin="-15" xMax="846" yMax="1076">
+    <TTGlyph name="aturned" xMin="34" yMin="-15" xMax="846" yMax="1076">
       <component glyphName="a" x="916" y="1055" scale="-1.0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="b" xMin="63" yMin="-18" xMax="958" yMax="1515">
+    <TTGlyph name="b" xMin="64" yMin="-18" xMax="958" yMax="1515">
       <contour>
         <pt x="522" y="892" on="1"/>
         <pt x="405" y="892" on="0"/>
@@ -3540,7 +3540,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="backslash" xMin="19" yMin="-95" xMax="976" yMax="1616">
+    <TTGlyph name="backslash" xMin="20" yMin="-95" xMax="976" yMax="1616">
       <contour>
         <pt x="976" y="-14" on="1"/>
         <pt x="805" y="-95" on="1"/>
@@ -3551,11 +3551,11 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="backslashmath" xMin="19" yMin="-95" xMax="976" yMax="1616">
+    <TTGlyph name="backslashmath" xMin="20" yMin="-95" xMax="976" yMax="1616">
       <component glyphName="backslash" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="bar" xMin="64" yMin="-141" xMax="304" yMax="1563">
+    <TTGlyph name="bar" xMin="65" yMin="-141" xMax="304" yMax="1563">
       <contour>
         <pt x="65" y="-141" on="1"/>
         <pt x="65" y="1563" on="1"/>
@@ -3566,22 +3566,22 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="bdotaccent" xMin="63" yMin="-18" xMax="958" yMax="1607">
+    <TTGlyph name="bdotaccent" xMin="64" yMin="-18" xMax="958" yMax="1607">
       <component glyphName="dotaccent" x="498" y="1242" flags="0x1004"/>
       <component glyphName="b" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="bdotbelow" xMin="63" yMin="-283" xMax="958" yMax="1515">
+    <TTGlyph name="bdotbelow" xMin="64" yMin="-283" xMax="958" yMax="1515">
       <component glyphName="dotaccent" x="423" y="-405" flags="0x1004"/>
       <component glyphName="b" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="blinebelow" xMin="63" yMin="-253" xMax="958" yMax="1515">
+    <TTGlyph name="blinebelow" xMin="64" yMin="-253" xMax="958" yMax="1515">
       <component glyphName="macron" x="100" y="-1456" flags="0x1004"/>
       <component glyphName="b" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="braceleft" xMin="123" yMin="-320" xMax="724" yMax="1670">
+    <TTGlyph name="braceleft" xMin="123" yMin="-320" xMax="723" yMax="1670">
       <contour>
         <pt x="123" y="581" on="1"/>
         <pt x="123" y="581" on="0"/>
@@ -3702,7 +3702,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="bracketright" xMin="53" yMin="-302" xMax="532" yMax="1646">
+    <TTGlyph name="bracketright" xMin="54" yMin="-302" xMax="532" yMax="1646">
       <contour>
         <pt x="532" y="-302" on="1"/>
         <pt x="54" y="-302" on="1"/>
@@ -3717,7 +3717,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="breve" xMin="34" yMin="1115" xMax="503" yMax="1351">
+    <TTGlyph name="breve" xMin="34" yMin="1115" xMax="502" yMax="1351">
       <contour>
         <pt x="339" y="1115" on="0"/>
         <pt x="197" y="1115" on="0"/>
@@ -3755,7 +3755,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="brokenbar" xMin="64" yMin="-141" xMax="304" yMax="1563">
+    <TTGlyph name="brokenbar" xMin="65" yMin="-141" xMax="304" yMax="1563">
       <contour>
         <pt x="65" y="794" on="1"/>
         <pt x="65" y="1563" on="1"/>
@@ -3787,7 +3787,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="c" xMin="59" yMin="-18" xMax="874" yMax="1073">
+    <TTGlyph name="c" xMin="59" yMin="-18" xMax="873" yMax="1073">
       <contour>
         <pt x="59" y="520" on="1"/>
         <pt x="59" y="834" on="0"/>
@@ -3822,17 +3822,17 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="cacute" xMin="59" yMin="-18" xMax="924" yMax="1565">
+    <TTGlyph name="cacute" xMin="59" yMin="-18" xMax="923" yMax="1565">
       <component glyphName="acute" x="369" y="46" flags="0x1004"/>
       <component glyphName="c" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="candrabinducomb" xMin="37" yMin="1115" xMax="506" yMax="1676">
+    <TTGlyph name="candrabinducomb" xMin="37" yMin="1115" xMax="505" yMax="1676">
       <component glyphName="dotaccent" x="270" y="1311" flags="0x1004"/>
       <component glyphName="breve" x="3" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="caron" xMin="69" yMin="1132" xMax="567" yMax="1475">
+    <TTGlyph name="caron" xMin="69" yMin="1132" xMax="566" yMax="1475">
       <contour>
         <pt x="566" y="1380" on="1"/>
         <pt x="318" y="1132" on="1"/>
@@ -3845,16 +3845,16 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="caroncomb" xMin="76" yMin="1132" xMax="574" yMax="1475">
+    <TTGlyph name="caroncomb" xMin="76" yMin="1132" xMax="573" yMax="1475">
       <component glyphName="caron" x="7" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="ccaron" xMin="59" yMin="-18" xMax="874" yMax="1531">
+    <TTGlyph name="ccaron" xMin="59" yMin="-18" xMax="873" yMax="1531">
       <component glyphName="caron" x="193" y="56" flags="0x1004"/>
       <component glyphName="c" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ccedilla" xMin="59" yMin="-354" xMax="874" yMax="1073">
+    <TTGlyph name="ccedilla" xMin="59" yMin="-359" xMax="873" yMax="1073">
       <contour>
         <pt x="59" y="520" on="1"/>
         <pt x="59" y="834" on="0"/>
@@ -3900,22 +3900,22 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="ccedillaacute" xMin="59" yMin="-354" xMax="874" yMax="1612">
+    <TTGlyph name="ccedillaacute" xMin="59" yMin="-359" xMax="873" yMax="1612">
       <component glyphName="acute" x="317" y="93" flags="0x1004"/>
       <component glyphName="ccedilla" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ccircumflex" xMin="59" yMin="-18" xMax="874" yMax="1502">
+    <TTGlyph name="ccircumflex" xMin="59" yMin="-18" xMax="873" yMax="1502">
       <component glyphName="asciicircum" x="193" y="56" flags="0x1004"/>
       <component glyphName="c" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="cdotaccent" xMin="59" yMin="-18" xMax="874" yMax="1431">
+    <TTGlyph name="cdotaccent" xMin="59" yMin="-18" xMax="873" yMax="1431">
       <component glyphName="dotaccent" x="505" y="1066" flags="0x1004"/>
       <component glyphName="c" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="cedilla" xMin="6" yMin="-347" xMax="291" yMax="0">
+    <TTGlyph name="cedilla" xMin="7" yMin="-352" xMax="291" yMax="0">
       <contour>
         <pt x="195" y="0" on="1"/>
         <pt x="291" y="-96" on="0"/>
@@ -3934,7 +3934,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="cedillacomb" xMin="6" yMin="-347" xMax="291" yMax="0">
+    <TTGlyph name="cedillacomb" xMin="7" yMin="-352" xMax="291" yMax="0">
       <component glyphName="cedilla" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
@@ -3993,15 +3993,15 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="circumflex" xMin="68" yMin="1134" xMax="566" yMax="1477">
+    <TTGlyph name="circumflex" xMin="68" yMin="1134" xMax="565" yMax="1477">
       <component glyphName="asciicircum" x="-1" y="31" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="circumflexcomb" xMin="69" yMin="1103" xMax="567" yMax="1446">
+    <TTGlyph name="circumflexcomb" xMin="69" yMin="1103" xMax="566" yMax="1446">
       <component glyphName="asciicircum" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="colon" xMin="50" yMin="0" xMax="295" yMax="1055">
+    <TTGlyph name="colon" xMin="51" yMin="0" xMax="295" yMax="1055">
       <contour>
         <pt x="51" y="812" on="1"/>
         <pt x="51" y="1055" on="1"/>
@@ -4032,19 +4032,19 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="commaabovecomb" xMin="48" yMin="1060" xMax="299" yMax="1553">
+    <TTGlyph name="commaabovecomb" xMin="48" yMin="1060" xMax="298" yMax="1553">
       <component glyphName="comma" x="4" y="1356" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="commaaboverightcomb" xMin="72" yMin="1060" xMax="323" yMax="1553">
+    <TTGlyph name="commaaboverightcomb" xMin="73" yMin="1060" xMax="323" yMax="1553">
       <component glyphName="comma" x="29" y="1356" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="commaturnedabovecomb" xMin="19" yMin="1059" xMax="270" yMax="1552">
+    <TTGlyph name="commaturnedabovecomb" xMin="20" yMin="1059" xMax="270" yMax="1552">
       <component glyphName="comma" x="314" y="1256" scale="-1.0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="copyright" xMin="59" yMin="252" xMax="1040" yMax="1232">
+    <TTGlyph name="copyright" xMin="59" yMin="252" xMax="1039" yMax="1232">
       <contour>
         <pt x="757" y="639" on="1"/>
         <pt x="707" y="450" on="0"/>
@@ -4112,11 +4112,11 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="cturn" xMin="46" yMin="-18" xMax="861" yMax="1073">
+    <TTGlyph name="cturn" xMin="47" yMin="-18" xMax="861" yMax="1073">
       <component glyphName="c" x="920" y="1055" scale="-1.0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="currency" xMin="45" yMin="399" xMax="736" yMax="1090">
+    <TTGlyph name="currency" xMin="45" yMin="399" xMax="735" yMax="1090">
       <contour>
         <pt x="256" y="802" on="0"/>
         <pt x="256" y="688" on="0"/>
@@ -4161,7 +4161,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="d" xMin="59" yMin="-18" xMax="954" yMax="1515">
+    <TTGlyph name="d" xMin="59" yMin="-18" xMax="953" yMax="1515">
       <contour>
         <pt x="711" y="789" on="1"/>
         <pt x="612" y="892" on="0"/>
@@ -4253,21 +4253,21 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="dblgravecomb" xMin="169" yMin="1094" xMax="966" yMax="1518">
+    <TTGlyph name="dblgravecomb" xMin="169" yMin="1094" xMax="965" yMax="1518">
       <component glyphName="grave" x="368" y="0" flags="0x1004"/>
       <component glyphName="grave" x="15" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="dblprimemod" xMin="22" yMin="1045" xMax="584" yMax="1538">
+    <TTGlyph name="dblprimemod" xMin="23" yMin="1045" xMax="584" yMax="1538">
       <component glyphName="quotedbl" x="0" y="45" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="dblverticalbar" xMin="71" yMin="-141" xMax="659" yMax="1563">
+    <TTGlyph name="dblverticalbar" xMin="71" yMin="-141" xMax="658" yMax="1563">
       <component glyphName="bar" x="354" y="0" flags="0x1004"/>
       <component glyphName="bar" x="6" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="dblverticallineabovecomb" xMin="22" yMin="1045" xMax="584" yMax="1538">
+    <TTGlyph name="dblverticallineabovecomb" xMin="23" yMin="1045" xMax="584" yMax="1538">
       <component glyphName="quotedbl" x="0" y="45" flags="0x1204"/>
     </TTGlyph>
 
@@ -4276,27 +4276,27 @@
       <component glyphName="d" x="6" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="dcedilla" xMin="59" yMin="-354" xMax="954" yMax="1515">
+    <TTGlyph name="dcedilla" xMin="59" yMin="-358" xMax="953" yMax="1515">
       <component glyphName="cedilla" x="354" y="-6" flags="0x1004"/>
       <component glyphName="d" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="dcircumflexbelow" xMin="59" yMin="-449" xMax="954" yMax="1515">
+    <TTGlyph name="dcircumflexbelow" xMin="59" yMin="-449" xMax="953" yMax="1515">
       <component glyphName="asciicircum" x="113" y="-1552" flags="0x1004"/>
       <component glyphName="d" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ddotaccent" xMin="59" yMin="-18" xMax="954" yMax="1604">
+    <TTGlyph name="ddotaccent" xMin="59" yMin="-18" xMax="953" yMax="1604">
       <component glyphName="dotaccent" x="455" y="1239" flags="0x1004"/>
       <component glyphName="d" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ddotbelow" xMin="59" yMin="-283" xMax="954" yMax="1515">
+    <TTGlyph name="ddotbelow" xMin="59" yMin="-283" xMax="953" yMax="1515">
       <component glyphName="dotaccent" x="497" y="-405" flags="0x1004"/>
       <component glyphName="d" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="degree" xMin="112" yMin="954" xMax="687" yMax="1528">
+    <TTGlyph name="degree" xMin="112" yMin="954" xMax="686" yMax="1528">
       <contour>
         <pt x="262" y="1298" on="0"/>
         <pt x="262" y="1184" on="0"/>
@@ -4321,16 +4321,16 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="diaeresiscomb" xMin="16" yMin="1203" xMax="639" yMax="1446">
+    <TTGlyph name="diaeresiscomb" xMin="16" yMin="1203" xMax="638" yMax="1446">
       <component glyphName="dieresis" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="dialytikatonoscomb" xMin="16" yMin="1203" xMax="693" yMax="1899">
+    <TTGlyph name="dialytikatonoscomb" xMin="16" yMin="1203" xMax="692" yMax="1899">
       <component glyphName="acute" x="138" y="380" flags="0x1004"/>
       <component glyphName="dieresis" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="dieresis" xMin="16" yMin="1203" xMax="639" yMax="1446">
+    <TTGlyph name="dieresis" xMin="16" yMin="1203" xMax="638" yMax="1446">
       <contour>
         <pt x="396" y="1203" on="1"/>
         <pt x="396" y="1446" on="1"/>
@@ -4347,11 +4347,11 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="dieresisbelowcomb" xMin="16" yMin="-237" xMax="639" yMax="6">
+    <TTGlyph name="dieresisbelowcomb" xMin="16" yMin="-237" xMax="638" yMax="6">
       <component glyphName="dieresis" x="0" y="-1440" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="divide" xMin="31" yMin="250" xMax="873" yMax="1228">
+    <TTGlyph name="divide" xMin="32" yMin="250" xMax="873" yMax="1228">
       <contour>
         <pt x="32" y="633" on="1"/>
         <pt x="32" y="848" on="1"/>
@@ -4374,16 +4374,16 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="divides" xMin="64" yMin="-141" xMax="304" yMax="1563">
+    <TTGlyph name="divides" xMin="65" yMin="-141" xMax="304" yMax="1563">
       <component glyphName="bar" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="dlinebelow" xMin="59" yMin="-253" xMax="954" yMax="1515">
+    <TTGlyph name="dlinebelow" xMin="59" yMin="-253" xMax="953" yMax="1515">
       <component glyphName="macron" x="135" y="-1456" flags="0x1004"/>
       <component glyphName="d" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="dollar" xMin="149" yMin="-219" xMax="1106" yMax="1565">
+    <TTGlyph name="dollar" xMin="150" yMin="-219" xMax="1106" yMax="1565">
       <contour>
         <pt x="719" y="185" on="1"/>
         <pt x="866" y="207" on="0"/>
@@ -4465,11 +4465,11 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="dotbelowcomb" xMin="50" yMin="-261" xMax="295" yMax="-18">
+    <TTGlyph name="dotbelowcomb" xMin="51" yMin="-261" xMax="295" yMax="-18">
       <component glyphName="period" x="0" y="-261" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="dotlessi" xMin="96" yMin="0" xMax="311" yMax="1055">
+    <TTGlyph name="dotlessi" xMin="97" yMin="0" xMax="311" yMax="1055">
       <contour>
         <pt x="97" y="0" on="1"/>
         <pt x="97" y="1055" on="1"/>
@@ -4480,17 +4480,17 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="dz" xMin="65" yMin="-18" xMax="1781" yMax="1515">
+    <TTGlyph name="dz" xMin="65" yMin="-18" xMax="1780" yMax="1515">
       <component glyphName="z" x="990" y="0" flags="0x1004"/>
       <component glyphName="d" x="6" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="dzcaron" xMin="65" yMin="-18" xMax="1781" yMax="1531">
+    <TTGlyph name="dzcaron" xMin="65" yMin="-18" xMax="1780" yMax="1531">
       <component glyphName="zcaron" x="990" y="0" flags="0x1004"/>
       <component glyphName="d" x="6" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="e" xMin="59" yMin="-18" xMax="877" yMax="1073">
+    <TTGlyph name="e" xMin="59" yMin="-18" xMax="880" yMax="1073">
       <contour>
         <pt x="283" y="652" on="1"/>
         <pt x="653" y="652" on="1"/>
@@ -4538,17 +4538,17 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="eacute" xMin="59" yMin="-18" xMax="877" yMax="1619">
+    <TTGlyph name="eacute" xMin="59" yMin="-18" xMax="880" yMax="1619">
       <component glyphName="acutecomb" x="296" y="100" flags="0x1004"/>
       <component glyphName="e" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ebreve" xMin="59" yMin="-18" xMax="877" yMax="1424">
+    <TTGlyph name="ebreve" xMin="59" yMin="-18" xMax="880" yMax="1424">
       <component glyphName="breve" x="215" y="73" flags="0x1004"/>
       <component glyphName="e" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ecaron" xMin="59" yMin="-18" xMax="877" yMax="1531">
+    <TTGlyph name="ecaron" xMin="59" yMin="-18" xMax="880" yMax="1531">
       <component glyphName="caron" x="168" y="56" flags="0x1004"/>
       <component glyphName="e" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
@@ -4629,62 +4629,62 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="ecircumflex" xMin="59" yMin="-18" xMax="877" yMax="1538">
+    <TTGlyph name="ecircumflex" xMin="59" yMin="-18" xMax="880" yMax="1538">
       <component glyphName="circumflex" x="174" y="61" flags="0x1004"/>
       <component glyphName="e" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ecircumflexacute" xMin="59" yMin="-18" xMax="877" yMax="2021">
+    <TTGlyph name="ecircumflexacute" xMin="59" yMin="-18" xMax="880" yMax="2021">
       <component glyphName="acute" x="292" y="502" flags="0x1004"/>
       <component glyphName="ecircumflex" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ecircumflexbelow" xMin="59" yMin="-449" xMax="877" yMax="1073">
+    <TTGlyph name="ecircumflexbelow" xMin="59" yMin="-449" xMax="880" yMax="1073">
       <component glyphName="asciicircum" x="184" y="-1552" flags="0x1004"/>
       <component glyphName="e" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ecircumflexdotbelow" xMin="59" yMin="-283" xMax="877" yMax="1502">
+    <TTGlyph name="ecircumflexdotbelow" xMin="59" yMin="-283" xMax="880" yMax="1502">
       <component glyphName="asciicircum" x="168" y="56" flags="0x1004"/>
       <component glyphName="edotbelow" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ecircumflexgrave" xMin="59" yMin="-18" xMax="877" yMax="2020">
+    <TTGlyph name="ecircumflexgrave" xMin="59" yMin="-18" xMax="880" yMax="2020">
       <component glyphName="grave" x="-15" y="502" flags="0x1004"/>
       <component glyphName="ecircumflex" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ecircumflextilde" xMin="59" yMin="-18" xMax="877" yMax="1860">
+    <TTGlyph name="ecircumflextilde" xMin="59" yMin="-18" xMax="880" yMax="1860">
       <component glyphName="tilde" x="480" y="1475" flags="0x1004"/>
       <component glyphName="ecircumflex" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="edblgrave" xMin="59" yMin="-18" xMax="955" yMax="1611">
+    <TTGlyph name="edblgrave" xMin="59" yMin="-18" xMax="954" yMax="1611">
       <component glyphName="dblgravecomb" x="-11" y="93" flags="0x1004"/>
       <component glyphName="e" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="edieresis" xMin="59" yMin="-18" xMax="877" yMax="1438">
+    <TTGlyph name="edieresis" xMin="59" yMin="-18" xMax="880" yMax="1438">
       <component glyphName="dieresis" x="158" y="-8" flags="0x1004"/>
       <component glyphName="e" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="edotaccent" xMin="59" yMin="-18" xMax="877" yMax="1431">
+    <TTGlyph name="edotaccent" xMin="59" yMin="-18" xMax="880" yMax="1431">
       <component glyphName="dotaccent" x="480" y="1066" flags="0x1004"/>
       <component glyphName="e" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="edotbelow" xMin="59" yMin="-283" xMax="877" yMax="1073">
+    <TTGlyph name="edotbelow" xMin="59" yMin="-283" xMax="880" yMax="1073">
       <component glyphName="dotaccent" x="496" y="-405" flags="0x1004"/>
       <component glyphName="e" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="egrave" xMin="59" yMin="-18" xMax="877" yMax="1619">
+    <TTGlyph name="egrave" xMin="59" yMin="-18" xMax="880" yMax="1619">
       <component glyphName="gravecomb" x="-12" y="101" flags="0x1004"/>
       <component glyphName="e" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="eight" xMin="86" yMin="-18" xMax="1133" yMax="1531">
+    <TTGlyph name="eight" xMin="87" yMin="-18" xMax="1133" yMax="1531">
       <contour>
         <pt x="595" y="907" on="1"/>
         <pt x="839" y="1019" on="0"/>
@@ -4749,28 +4749,28 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="einvertedbreve" xMin="59" yMin="-18" xMax="877" yMax="1424">
+    <TTGlyph name="einvertedbreve" xMin="59" yMin="-18" xMax="880" yMax="1424">
       <component glyphName="breveinvertedcomb" x="215" y="73" flags="0x1004"/>
       <component glyphName="e" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ellipsis" xMin="55" yMin="0" xMax="968" yMax="243">
+    <TTGlyph name="ellipsis" xMin="56" yMin="0" xMax="968" yMax="243">
       <component glyphName="period" x="673" y="0" flags="0x1004"/>
       <component glyphName="period" x="339" y="0" flags="0x1004"/>
       <component glyphName="period" x="5" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="emacron" xMin="59" yMin="-18" xMax="877" yMax="1309">
+    <TTGlyph name="emacron" xMin="59" yMin="-18" xMax="880" yMax="1309">
       <component glyphName="macron" x="127" y="-43" flags="0x1004"/>
       <component glyphName="e" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="emacronacute" xMin="59" yMin="-18" xMax="877" yMax="1826">
+    <TTGlyph name="emacronacute" xMin="59" yMin="-18" xMax="880" yMax="1826">
       <component glyphName="acute" x="292" y="307" flags="0x1004"/>
       <component glyphName="emacron" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="emacrongrave" xMin="59" yMin="-18" xMax="877" yMax="1825">
+    <TTGlyph name="emacrongrave" xMin="59" yMin="-18" xMax="880" yMax="1825">
       <component glyphName="grave" x="-15" y="307" flags="0x1004"/>
       <component glyphName="emacron" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
@@ -4797,7 +4797,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="eogonek" xMin="59" yMin="-348" xMax="877" yMax="1073">
+    <TTGlyph name="eogonek" xMin="59" yMin="-353" xMax="880" yMax="1073">
       <contour>
         <pt x="527" y="-150" on="1"/>
         <pt x="527" y="-196" on="0"/>
@@ -4860,7 +4860,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="equal" xMin="59" yMin="440" xMax="884" yMax="1003">
+    <TTGlyph name="equal" xMin="59" yMin="440" xMax="883" yMax="1003">
       <contour>
         <pt x="59" y="788" on="1"/>
         <pt x="59" y="1003" on="1"/>
@@ -4877,7 +4877,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="eth" xMin="59" yMin="-18" xMax="924" yMax="1515">
+    <TTGlyph name="eth" xMin="59" yMin="-18" xMax="923" yMax="1515">
       <contour>
         <pt x="278" y="644" on="1"/>
         <pt x="273" y="593" on="0"/>
@@ -4935,21 +4935,21 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="etilde" xMin="59" yMin="-18" xMax="877" yMax="1451">
+    <TTGlyph name="etilde" xMin="59" yMin="-18" xMax="880" yMax="1451">
       <component glyphName="tilde" x="480" y="1066" flags="0x1004"/>
       <component glyphName="e" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="etildebelow" xMin="59" yMin="-333" xMax="877" yMax="1073">
+    <TTGlyph name="etildebelow" xMin="59" yMin="-333" xMax="880" yMax="1073">
       <component glyphName="tilde" x="496" y="-452" flags="0x1004"/>
       <component glyphName="e" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="eturned" xMin="42" yMin="-18" xMax="860" yMax="1073">
+    <TTGlyph name="eturned" xMin="39" yMin="-18" xMax="860" yMax="1073">
       <component glyphName="schwa" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="exclam" xMin="48" yMin="0" xMax="295" yMax="1446">
+    <TTGlyph name="exclam" xMin="48" yMin="0" xMax="294" yMax="1446">
       <contour>
         <pt x="48" y="1446" on="1"/>
         <pt x="291" y="1446" on="1"/>
@@ -4966,12 +4966,12 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="exclamdbl" xMin="53" yMin="0" xMax="634" yMax="1446">
+    <TTGlyph name="exclamdbl" xMin="53" yMin="0" xMax="633" yMax="1446">
       <component glyphName="exclam" x="339" y="0" flags="0x1004"/>
       <component glyphName="exclam" x="5" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="exclamdown" xMin="48" yMin="-169" xMax="295" yMax="1277">
+    <TTGlyph name="exclamdown" xMin="48" yMin="-169" xMax="294" yMax="1277">
       <contour>
         <pt x="294" y="-169" on="1"/>
         <pt x="51" y="-169" on="1"/>
@@ -4988,7 +4988,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="exclamlatin" xMin="53" yMin="0" xMax="300" yMax="1446">
+    <TTGlyph name="exclamlatin" xMin="53" yMin="0" xMax="299" yMax="1446">
       <component glyphName="exclam" x="5" y="0" flags="0x1004"/>
     </TTGlyph>
 
@@ -4997,7 +4997,7 @@
       <component glyphName="exclam" x="5" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="f" xMin="2" yMin="0" xMax="587" yMax="1530">
+    <TTGlyph name="f" xMin="2" yMin="0" xMax="586" yMax="1530">
       <contour>
         <pt x="507" y="1530" on="1"/>
         <pt x="581" y="1530" on="0"/>
@@ -5025,7 +5025,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="fdotaccent" xMin="2" yMin="0" xMax="587" yMax="1889">
+    <TTGlyph name="fdotaccent" xMin="2" yMin="0" xMax="586" yMax="1889">
       <component glyphName="dotaccent" x="329" y="1524" flags="0x1004"/>
       <component glyphName="f" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
@@ -5218,7 +5218,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="five" xMin="69" yMin="-18" xMax="1010" yMax="1515">
+    <TTGlyph name="five" xMin="69" yMin="-18" xMax="1009" yMax="1515">
       <contour>
         <pt x="69" y="291" on="1"/>
         <pt x="228" y="405" on="1"/>
@@ -5262,7 +5262,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="fl" xMin="-7" yMin="-3" xMax="811" yMax="1530">
+    <TTGlyph name="fl" xMin="-7" yMin="-3" xMax="811" yMax="1532">
       <contour>
         <pt x="597" y="1336" on="1"/>
         <pt x="359" y="1341" on="0"/>
@@ -5292,7 +5292,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="four" xMin="115" yMin="0" xMax="1219" yMax="1515">
+    <TTGlyph name="four" xMin="116" yMin="0" xMax="1218" yMax="1515">
       <contour>
         <pt x="374" y="552" on="1"/>
         <pt x="748" y="552" on="1"/>
@@ -5326,7 +5326,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="g" xMin="20" yMin="-452" xMax="993" yMax="1076">
+    <TTGlyph name="g" xMin="21" yMin="-452" xMax="993" yMax="1076">
       <contour>
         <pt x="733" y="356" on="0"/>
         <pt x="576" y="296" on="0"/>
@@ -5430,37 +5430,37 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="gacute" xMin="20" yMin="-452" xMax="993" yMax="1614">
+    <TTGlyph name="gacute" xMin="21" yMin="-452" xMax="993" yMax="1614">
       <component glyphName="acute" x="309" y="95" flags="0x1004"/>
       <component glyphName="g" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="gbreve" xMin="20" yMin="-452" xMax="993" yMax="1426">
+    <TTGlyph name="gbreve" xMin="21" yMin="-452" xMax="993" yMax="1426">
       <component glyphName="breve" x="205" y="75" flags="0x1004"/>
       <component glyphName="g" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="gcaron" xMin="20" yMin="-452" xMax="993" yMax="1533">
+    <TTGlyph name="gcaron" xMin="21" yMin="-452" xMax="993" yMax="1533">
       <component glyphName="caron" x="164" y="58" flags="0x1004"/>
       <component glyphName="g" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="gcircumflex" xMin="20" yMin="-452" xMax="993" yMax="1495">
+    <TTGlyph name="gcircumflex" xMin="21" yMin="-452" xMax="993" yMax="1495">
       <component glyphName="asciicircum" x="164" y="49" flags="0x1004"/>
       <component glyphName="g" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="gcommaaccent" xMin="20" yMin="-452" xMax="993" yMax="1562">
+    <TTGlyph name="gcommaaccent" xMin="21" yMin="-452" xMax="993" yMax="1562">
       <component glyphName="comma" x="404" y="1365" flags="0x1004"/>
       <component glyphName="g" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="gdotaccent" xMin="20" yMin="-452" xMax="993" yMax="1433">
+    <TTGlyph name="gdotaccent" xMin="21" yMin="-452" xMax="993" yMax="1433">
       <component glyphName="dotaccent" x="467" y="1068" flags="0x1004"/>
       <component glyphName="g" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="germandbls" xMin="125" yMin="-18" xMax="1136" yMax="1531">
+    <TTGlyph name="germandbls" xMin="125" yMin="-18" xMax="1135" yMax="1531">
       <contour>
         <pt x="391" y="900" on="0"/>
         <pt x="496" y="1027" on="0"/>
@@ -5538,7 +5538,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="gmacron" xMin="20" yMin="-452" xMax="993" yMax="1311">
+    <TTGlyph name="gmacron" xMin="21" yMin="-452" xMax="993" yMax="1311">
       <component glyphName="macron" x="119" y="-41" flags="0x1004"/>
       <component glyphName="g" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
@@ -5554,11 +5554,11 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="gravecomb" xMin="169" yMin="1094" xMax="613" yMax="1518">
+    <TTGlyph name="gravecomb" xMin="169" yMin="1094" xMax="612" yMax="1518">
       <component glyphName="grave" x="15" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="greater" xMin="48" yMin="88" xMax="976" yMax="1400">
+    <TTGlyph name="greater" xMin="48" yMin="88" xMax="975" yMax="1400">
       <contour>
         <pt x="709" y="744" on="1"/>
         <pt x="48" y="1272" on="1"/>
@@ -5613,15 +5613,15 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="guilsinglleft" xMin="48" yMin="88" xMax="976" yMax="1400">
+    <TTGlyph name="guilsinglleft" xMin="48" yMin="88" xMax="975" yMax="1400">
       <component glyphName="less" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="guilsinglright" xMin="48" yMin="88" xMax="976" yMax="1400">
+    <TTGlyph name="guilsinglright" xMin="48" yMin="88" xMax="975" yMax="1400">
       <component glyphName="greater" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="h" xMin="119" yMin="0" xMax="902" yMax="1515">
+    <TTGlyph name="h" xMin="120" yMin="0" xMax="902" yMax="1515">
       <contour>
         <pt x="902" y="791" on="1"/>
         <pt x="902" y="0" on="1"/>
@@ -5647,55 +5647,55 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="hbrevebelow" xMin="119" yMin="-297" xMax="902" yMax="1515">
+    <TTGlyph name="hbrevebelow" xMin="120" yMin="-297" xMax="902" yMax="1515">
       <component glyphName="breve" x="245" y="-1412" flags="0x1004"/>
       <component glyphName="h" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="hcaron" xMin="119" yMin="0" xMax="902" yMax="1980">
+    <TTGlyph name="hcaron" xMin="120" yMin="0" xMax="902" yMax="1980">
       <component glyphName="caron" x="198" y="505" flags="0x1004"/>
       <component glyphName="h" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="hcedilla" xMin="97" yMin="-336" xMax="902" yMax="1515">
+    <TTGlyph name="hcedilla" xMin="98" yMin="-340" xMax="902" yMax="1515">
       <component glyphName="cedilla" x="91" y="12" flags="0x1004"/>
       <component glyphName="h" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="hcircumflex" xMin="119" yMin="0" xMax="902" yMax="1951">
+    <TTGlyph name="hcircumflex" xMin="120" yMin="0" xMax="902" yMax="1951">
       <component glyphName="asciicircum" x="198" y="505" flags="0x1004"/>
       <component glyphName="h" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="hdieresis" xMin="119" yMin="0" xMax="902" yMax="1880">
+    <TTGlyph name="hdieresis" xMin="120" yMin="0" xMax="902" yMax="1880">
       <component glyphName="dieresis" x="183" y="434" flags="0x1004"/>
       <component glyphName="h" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="hdotaccent" xMin="73" yMin="0" xMax="902" yMax="1880">
+    <TTGlyph name="hdotaccent" xMin="74" yMin="0" xMax="902" yMax="1880">
       <component glyphName="dotaccent" x="206" y="1515" flags="0x1004"/>
       <component glyphName="h" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="hdotbelow" xMin="119" yMin="-272" xMax="902" yMax="1515">
+    <TTGlyph name="hdotbelow" xMin="120" yMin="-272" xMax="902" yMax="1515">
       <component glyphName="dotaccent" x="510" y="-394" flags="0x1004"/>
       <component glyphName="h" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="hlinebelow" xMin="119" yMin="-242" xMax="902" yMax="1515">
+    <TTGlyph name="hlinebelow" xMin="120" yMin="-242" xMax="902" yMax="1515">
       <component glyphName="macron" x="157" y="-1445" flags="0x1004"/>
       <component glyphName="h" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="horizontalbar" xMin="87" yMin="747" xMax="1056" yMax="928">
+    <TTGlyph name="horizontalbar" xMin="87" yMin="747" xMax="1055" yMax="928">
       <component glyphName="underscore" x="8" y="747" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="hungarumlaut" xMin="-222" yMin="122" xMax="340" yMax="615">
+    <TTGlyph name="hungarumlaut" xMin="-221" yMin="122" xMax="340" yMax="615">
       <component glyphName="quotedbl" x="-244" y="-878" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="hungarumlautcomb" xMin="22" yMin="1000" xMax="584" yMax="1493">
+    <TTGlyph name="hungarumlautcomb" xMin="23" yMin="1000" xMax="584" yMax="1493">
       <component glyphName="quotedbl" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
@@ -5732,7 +5732,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="i" xMin="91" yMin="0" xMax="335" yMax="1390">
+    <TTGlyph name="i" xMin="91" yMin="0" xMax="334" yMax="1390">
       <contour>
         <pt x="106" y="0" on="1"/>
         <pt x="106" y="1055" on="1"/>
@@ -5749,32 +5749,32 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="iacute" xMin="96" yMin="0" xMax="570" yMax="1619">
+    <TTGlyph name="iacute" xMin="97" yMin="0" xMax="570" yMax="1619">
       <component glyphName="acutecomb" x="16" y="100" flags="0x1004"/>
       <component glyphName="dotlessi" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ibreve" xMin="-28" yMin="0" xMax="441" yMax="1424">
+    <TTGlyph name="ibreve" xMin="-27" yMin="0" xMax="441" yMax="1424">
       <component glyphName="breve" x="-61" y="73" flags="0x1004"/>
       <component glyphName="dotlessi" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="icaron" xMin="-39" yMin="0" xMax="459" yMax="1531">
+    <TTGlyph name="icaron" xMin="-39" yMin="0" xMax="458" yMax="1531">
       <component glyphName="caron" x="-108" y="56" flags="0x1004"/>
       <component glyphName="dotlessi" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="icircumflex" xMin="-39" yMin="0" xMax="459" yMax="1538">
+    <TTGlyph name="icircumflex" xMin="-39" yMin="0" xMax="458" yMax="1538">
       <component glyphName="circumflex" x="-107" y="61" flags="0x1004"/>
       <component glyphName="dotlessi" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="idblgrave" xMin="-170" yMin="0" xMax="627" yMax="1611">
+    <TTGlyph name="idblgrave" xMin="-170" yMin="0" xMax="626" yMax="1611">
       <component glyphName="dblgravecomb" x="-339" y="93" flags="0x1004"/>
       <component glyphName="dotlessi" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="idieresis" xMin="-106" yMin="0" xMax="517" yMax="1438">
+    <TTGlyph name="idieresis" xMin="-106" yMin="0" xMax="516" yMax="1438">
       <component glyphName="dieresis" x="-122" y="-8" flags="0x1004"/>
       <component glyphName="dotlessi" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
@@ -5784,32 +5784,32 @@
       <component glyphName="idieresis" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="idotbelow" xMin="81" yMin="-274" xMax="335" yMax="1390">
+    <TTGlyph name="idotbelow" xMin="81" yMin="-274" xMax="334" yMax="1390">
       <component glyphName="dotaccent" x="213" y="-396" flags="0x1004"/>
       <component glyphName="i" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="igrave" xMin="-123" yMin="0" xMax="321" yMax="1619">
+    <TTGlyph name="igrave" xMin="-123" yMin="0" xMax="320" yMax="1619">
       <component glyphName="gravecomb" x="-292" y="101" flags="0x1004"/>
       <component glyphName="dotlessi" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="iinvertedbreve" xMin="-31" yMin="0" xMax="438" yMax="1424">
+    <TTGlyph name="iinvertedbreve" xMin="-30" yMin="0" xMax="438" yMax="1424">
       <component glyphName="breveinvertedcomb" x="-61" y="73" flags="0x1004"/>
       <component glyphName="dotlessi" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ij" xMin="100" yMin="-346" xMax="737" yMax="1390">
+    <TTGlyph name="ij" xMin="100" yMin="-346" xMax="736" yMax="1390">
       <component glyphName="j" x="380" y="0" flags="0x1004"/>
       <component glyphName="i" x="9" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="imacron" xMin="-51" yMin="0" xMax="559" yMax="1309">
+    <TTGlyph name="imacron" xMin="-50" yMin="0" xMax="559" yMax="1309">
       <component glyphName="macron" x="-149" y="-43" flags="0x1004"/>
       <component glyphName="dotlessi" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="interrobang" xMin="74" yMin="0" xMax="802" yMax="1526">
+    <TTGlyph name="interrobang" xMin="75" yMin="0" xMax="802" yMax="1526">
       <contour>
         <pt x="75" y="1289" on="1"/>
         <pt x="145" y="1429" on="0"/>
@@ -5855,22 +5855,22 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="iogonek" xMin="91" yMin="-337" xMax="369" yMax="1390">
+    <TTGlyph name="iogonek" xMin="64" yMin="-342" xMax="369" yMax="1390">
       <component glyphName="ogonek" x="78" y="10" flags="0x1004"/>
       <component glyphName="i" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="itilde" xMin="-144" yMin="0" xMax="561" yMax="1451">
+    <TTGlyph name="itilde" xMin="-144" yMin="0" xMax="560" yMax="1451">
       <component glyphName="asciitilde" x="-191" y="73" flags="0x1004"/>
       <component glyphName="dotlessi" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="itildebelow" xMin="-169" yMin="-324" xMax="536" yMax="1390">
+    <TTGlyph name="itildebelow" xMin="-169" yMin="-324" xMax="535" yMax="1390">
       <component glyphName="tilde" x="213" y="-443" flags="0x1004"/>
       <component glyphName="i" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="j" xMin="-61" yMin="-346" xMax="357" yMax="1390">
+    <TTGlyph name="j" xMin="-60" yMin="-346" xMax="356" yMax="1390">
       <contour>
         <pt x="-60" y="-165" on="1"/>
         <pt x="40" y="-165" on="0"/>
@@ -5899,7 +5899,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="k" xMin="124" yMin="0" xMax="921" yMax="1515">
+    <TTGlyph name="k" xMin="124" yMin="0" xMax="920" yMax="1515">
       <contour>
         <pt x="124" y="0" on="1"/>
         <pt x="124" y="1515" on="1"/>
@@ -5918,32 +5918,32 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="kacute" xMin="124" yMin="0" xMax="921" yMax="2061">
+    <TTGlyph name="kacute" xMin="124" yMin="0" xMax="920" yMax="2061">
       <component glyphName="acute" x="26" y="542" flags="0x1004"/>
       <component glyphName="k" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="kcaron" xMin="124" yMin="0" xMax="921" yMax="1980">
+    <TTGlyph name="kcaron" xMin="124" yMin="0" xMax="920" yMax="1980">
       <component glyphName="caron" x="183" y="505" flags="0x1004"/>
       <component glyphName="k" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="kcommaaccent" xMin="124" yMin="-568" xMax="921" yMax="1515">
+    <TTGlyph name="kcommaaccent" xMin="124" yMin="-568" xMax="920" yMax="1515">
       <component glyphName="comma" x="366" y="-272" flags="0x1004"/>
       <component glyphName="k" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="kdotbelow" xMin="124" yMin="-272" xMax="921" yMax="1515">
+    <TTGlyph name="kdotbelow" xMin="124" yMin="-272" xMax="920" yMax="1515">
       <component glyphName="dotaccent" x="522" y="-394" flags="0x1004"/>
       <component glyphName="k" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="klinebelow" xMin="124" yMin="-242" xMax="921" yMax="1515">
+    <TTGlyph name="klinebelow" xMin="124" yMin="-242" xMax="920" yMax="1515">
       <component glyphName="macron" x="168" y="-1445" flags="0x1004"/>
       <component glyphName="k" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="l" xMin="124" yMin="-3" xMax="339" yMax="1515">
+    <TTGlyph name="l" xMin="124" yMin="-3" xMax="338" yMax="1515">
       <contour>
         <pt x="124" y="-3" on="1"/>
         <pt x="124" y="1515" on="1"/>
@@ -5954,42 +5954,42 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="lacute" xMin="124" yMin="-3" xMax="609" yMax="2014">
+    <TTGlyph name="lacute" xMin="124" yMin="-3" xMax="608" yMax="2014">
       <component glyphName="acute" x="54" y="495" flags="0x1004"/>
       <component glyphName="l" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="lcaron" xMin="136" yMin="-3" xMax="615" yMax="1562">
+    <TTGlyph name="lcaron" xMin="136" yMin="-3" xMax="614" yMax="1562">
       <component glyphName="comma" x="320" y="1365" flags="0x1004"/>
       <component glyphName="l" x="12" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="lcircumflexbelow" xMin="-53" yMin="-440" xMax="445" yMax="1515">
+    <TTGlyph name="lcircumflexbelow" xMin="-53" yMin="-440" xMax="444" yMax="1515">
       <component glyphName="asciicircum" x="-122" y="-1543" flags="0x1004"/>
       <component glyphName="l" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="lcommaaccent" xMin="78" yMin="-570" xMax="339" yMax="1515">
+    <TTGlyph name="lcommaaccent" xMin="78" yMin="-570" xMax="338" yMax="1515">
       <component glyphName="comma" x="34" y="-274" flags="0x1004"/>
       <component glyphName="l" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ldot" xMin="136" yMin="-3" xMax="700" yMax="1515">
+    <TTGlyph name="ldot" xMin="136" yMin="-3" xMax="699" yMax="1515">
       <component glyphName="periodcentered" x="404" y="0" flags="0x1004"/>
       <component glyphName="l" x="12" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="ldotbelow" xMin="58" yMin="-274" xMax="339" yMax="1515">
+    <TTGlyph name="ldotbelow" xMin="58" yMin="-274" xMax="338" yMax="1515">
       <component glyphName="dotaccent" x="190" y="-396" flags="0x1004"/>
       <component glyphName="l" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ldotbelowmacron" xMin="-64" yMin="-274" xMax="546" yMax="1758">
+    <TTGlyph name="ldotbelowmacron" xMin="-64" yMin="-274" xMax="545" yMax="1758">
       <component glyphName="macron" x="-163" y="406" flags="0x1004"/>
       <component glyphName="ldotbelow" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="less" xMin="48" yMin="88" xMax="976" yMax="1400">
+    <TTGlyph name="less" xMin="48" yMin="88" xMax="975" yMax="1400">
       <contour>
         <pt x="314" y="744" on="1"/>
         <pt x="975" y="216" on="1"/>
@@ -6002,17 +6002,17 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="lj" xMin="136" yMin="-346" xMax="761" yMax="1515">
+    <TTGlyph name="lj" xMin="136" yMin="-346" xMax="760" yMax="1515">
       <component glyphName="j" x="404" y="0" flags="0x1004"/>
       <component glyphName="l" x="12" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="llinebelow" xMin="-64" yMin="-244" xMax="546" yMax="1515">
+    <TTGlyph name="llinebelow" xMin="-64" yMin="-244" xMax="545" yMax="1515">
       <component glyphName="macron" x="-163" y="-1447" flags="0x1004"/>
       <component glyphName="l" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="logicalnot" xMin="79" yMin="339" xMax="1056" yMax="849">
+    <TTGlyph name="logicalnot" xMin="79" yMin="339" xMax="1055" yMax="849">
       <contour>
         <pt x="79" y="667" on="1"/>
         <pt x="79" y="849" on="1"/>
@@ -6025,7 +6025,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="longs" xMin="-7" yMin="0" xMax="578" yMax="1530">
+    <TTGlyph name="longs" xMin="-7" yMin="0" xMax="577" yMax="1530">
       <contour>
         <pt x="498" y="1530" on="1"/>
         <pt x="572" y="1530" on="0"/>
@@ -6116,7 +6116,7 @@
       <component glyphName="m" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="micro" xMin="118" yMin="-410" xMax="901" yMax="1055">
+    <TTGlyph name="micro" xMin="119" yMin="-410" xMax="901" yMax="1055">
       <contour>
         <pt x="333" y="-410" on="1"/>
         <pt x="119" y="-410" on="1"/>
@@ -6142,7 +6142,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="minus" xMin="31" yMin="633" xMax="873" yMax="848">
+    <TTGlyph name="minus" xMin="32" yMin="633" xMax="873" yMax="848">
       <contour>
         <pt x="32" y="633" on="1"/>
         <pt x="32" y="848" on="1"/>
@@ -6153,7 +6153,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="minusplus" xMin="35" yMin="189" xMax="877" yMax="1328">
+    <TTGlyph name="minusplus" xMin="35" yMin="189" xMax="876" yMax="1328">
       <component glyphName="minus" x="3" y="480" flags="0x1004"/>
       <component glyphName="plus" x="3" y="-130" flags="0x1004"/>
     </TTGlyph>
@@ -6203,15 +6203,17 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="nacute" xMin="110" yMin="0" xMax="919" yMax="1565">
+    <TTGlyph name="nacute" xMin="110" yMin="0" xMax="918" yMax="1565">
       <component glyphName="acute" x="364" y="46" flags="0x1004"/>
       <component glyphName="n" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="napostrophe" xMin="48" yMin="0" xMax="1054" yMax="1493">
+    <TTGlyph name="napostrophe" xMin="48" yMin="0" xMax="1053" yMax="1493">
       <component glyphName="n" x="161" y="0" flags="0x1004"/>
       <component glyphName="quotesingle" x="4" y="0" flags="0x1004"/>
     </TTGlyph>
+
+    <TTGlyph name="nbsp"/><!-- contains no outline data -->
 
     <TTGlyph name="ncaron" xMin="110" yMin="0" xMax="892" yMax="1531">
       <component glyphName="caron" x="188" y="56" flags="0x1004"/>
@@ -6248,7 +6250,7 @@
       <component glyphName="n" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="nine" xMin="90" yMin="-18" xMax="1079" yMax="1513">
+    <TTGlyph name="nine" xMin="90" yMin="-18" xMax="1078" yMax="1513">
       <contour>
         <pt x="329" y="896" on="0"/>
         <pt x="474" y="736" on="0"/>
@@ -6299,7 +6301,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="nj" xMin="121" yMin="-346" xMax="1338" yMax="1390">
+    <TTGlyph name="nj" xMin="121" yMin="-346" xMax="1337" yMax="1390">
       <component glyphName="j" x="981" y="0" flags="0x1004"/>
       <component glyphName="n" x="11" y="0" flags="0x1004"/>
     </TTGlyph>
@@ -6316,7 +6318,7 @@
       <component glyphName="n" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="numbersign" xMin="138" yMin="0" xMax="1209" yMax="1518">
+    <TTGlyph name="numbersign" xMin="139" yMin="0" xMax="1209" yMax="1518">
       <contour>
         <pt x="591" y="652" on="1"/>
         <pt x="749" y="652" on="1"/>
@@ -6357,7 +6359,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="o" xMin="59" yMin="-19" xMax="924" yMax="1073">
+    <TTGlyph name="o" xMin="59" yMin="-19" xMax="923" yMax="1073">
       <contour>
         <pt x="279" y="649" on="1"/>
         <pt x="273" y="596" on="0"/>
@@ -6397,77 +6399,77 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="oacute" xMin="59" yMin="-19" xMax="924" yMax="1619">
+    <TTGlyph name="oacute" xMin="59" yMin="-19" xMax="923" yMax="1619">
       <component glyphName="acutecomb" x="304" y="100" flags="0x1004"/>
       <component glyphName="o" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="obreve" xMin="59" yMin="-19" xMax="924" yMax="1424">
+    <TTGlyph name="obreve" xMin="59" yMin="-19" xMax="923" yMax="1424">
       <component glyphName="breve" x="227" y="73" flags="0x1004"/>
       <component glyphName="o" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ocaron" xMin="59" yMin="-19" xMax="924" yMax="1531">
+    <TTGlyph name="ocaron" xMin="59" yMin="-19" xMax="923" yMax="1531">
       <component glyphName="caron" x="180" y="56" flags="0x1004"/>
       <component glyphName="o" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ocircumflex" xMin="59" yMin="-19" xMax="924" yMax="1538">
+    <TTGlyph name="ocircumflex" xMin="59" yMin="-19" xMax="923" yMax="1538">
       <component glyphName="circumflex" x="182" y="61" flags="0x1004"/>
       <component glyphName="o" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ocircumflexacute" xMin="59" yMin="-19" xMax="924" yMax="2021">
+    <TTGlyph name="ocircumflexacute" xMin="59" yMin="-19" xMax="923" yMax="2021">
       <component glyphName="acute" x="304" y="502" flags="0x1004"/>
       <component glyphName="ocircumflex" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ocircumflexdotbelow" xMin="59" yMin="-284" xMax="924" yMax="1502">
+    <TTGlyph name="ocircumflexdotbelow" xMin="59" yMin="-284" xMax="923" yMax="1502">
       <component glyphName="asciicircum" x="180" y="56" flags="0x1004"/>
       <component glyphName="odotbelow" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ocircumflexgrave" xMin="59" yMin="-19" xMax="924" yMax="2020">
+    <TTGlyph name="ocircumflexgrave" xMin="59" yMin="-19" xMax="923" yMax="2020">
       <component glyphName="grave" x="-3" y="502" flags="0x1004"/>
       <component glyphName="ocircumflex" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ocircumflextilde" xMin="59" yMin="-19" xMax="924" yMax="1860">
+    <TTGlyph name="ocircumflextilde" xMin="59" yMin="-19" xMax="923" yMax="1860">
       <component glyphName="tilde" x="492" y="1475" flags="0x1004"/>
       <component glyphName="ocircumflex" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="odblgrave" xMin="59" yMin="-19" xMax="969" yMax="1611">
+    <TTGlyph name="odblgrave" xMin="59" yMin="-19" xMax="968" yMax="1611">
       <component glyphName="dblgravecomb" x="3" y="93" flags="0x1004"/>
       <component glyphName="o" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="odieresis" xMin="59" yMin="-19" xMax="924" yMax="1438">
+    <TTGlyph name="odieresis" xMin="59" yMin="-19" xMax="923" yMax="1438">
       <component glyphName="dieresis" x="166" y="-8" flags="0x1004"/>
       <component glyphName="o" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="odieresismacron" xMin="59" yMin="-19" xMax="924" yMax="1581">
+    <TTGlyph name="odieresismacron" xMin="59" yMin="-19" xMax="923" yMax="1581">
       <component glyphName="macron" x="139" y="229" flags="0x1004"/>
       <component glyphName="odieresis" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="odotaccent" xMin="59" yMin="-19" xMax="924" yMax="1431">
+    <TTGlyph name="odotaccent" xMin="59" yMin="-19" xMax="923" yMax="1431">
       <component glyphName="dotaccent" x="492" y="1066" flags="0x1004"/>
       <component glyphName="o" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="odotaccentmacron" xMin="59" yMin="-19" xMax="924" yMax="1581">
+    <TTGlyph name="odotaccentmacron" xMin="59" yMin="-19" xMax="923" yMax="1581">
       <component glyphName="macron" x="139" y="229" flags="0x1004"/>
       <component glyphName="odotaccent" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="odotbelow" xMin="59" yMin="-284" xMax="924" yMax="1073">
+    <TTGlyph name="odotbelow" xMin="59" yMin="-284" xMax="923" yMax="1073">
       <component glyphName="dotaccent" x="492" y="-406" flags="0x1004"/>
       <component glyphName="o" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="oe" xMin="59" yMin="-19" xMax="1528" yMax="1073">
+    <TTGlyph name="oe" xMin="59" yMin="-19" xMax="1531" yMax="1073">
       <contour>
         <pt x="933" y="654" on="1"/>
         <pt x="1303" y="654" on="1"/>
@@ -6535,7 +6537,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="ogonek" xMin="18" yMin="-347" xMax="291" yMax="0">
+    <TTGlyph name="ogonek" xMin="-14" yMin="-352" xMax="291" yMax="0">
       <contour>
         <pt x="166" y="-149" on="1"/>
         <pt x="166" y="-195" on="0"/>
@@ -6556,37 +6558,37 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="ograve" xMin="59" yMin="-19" xMax="924" yMax="1619">
+    <TTGlyph name="ograve" xMin="59" yMin="-19" xMax="923" yMax="1619">
       <component glyphName="gravecomb" x="-4" y="101" flags="0x1004"/>
       <component glyphName="o" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ohungarumlaut" xMin="59" yMin="-19" xMax="924" yMax="1610">
+    <TTGlyph name="ohungarumlaut" xMin="59" yMin="-19" xMax="923" yMax="1610">
       <component glyphName="hungarumlaut" x="435" y="995" flags="0x1004"/>
       <component glyphName="o" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="oinvertedbreve" xMin="59" yMin="-19" xMax="924" yMax="1424">
+    <TTGlyph name="oinvertedbreve" xMin="59" yMin="-19" xMax="923" yMax="1424">
       <component glyphName="breveinvertedcomb" x="227" y="73" flags="0x1004"/>
       <component glyphName="o" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="omacron" xMin="59" yMin="-19" xMax="924" yMax="1309">
+    <TTGlyph name="omacron" xMin="59" yMin="-19" xMax="923" yMax="1309">
       <component glyphName="macron" x="139" y="-43" flags="0x1004"/>
       <component glyphName="o" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="omacronacute" xMin="59" yMin="-19" xMax="924" yMax="1826">
+    <TTGlyph name="omacronacute" xMin="59" yMin="-19" xMax="923" yMax="1826">
       <component glyphName="acute" x="304" y="307" flags="0x1004"/>
       <component glyphName="omacron" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="omacrongrave" xMin="59" yMin="-19" xMax="924" yMax="1825">
+    <TTGlyph name="omacrongrave" xMin="59" yMin="-19" xMax="923" yMax="1825">
       <component glyphName="grave" x="-3" y="307" flags="0x1004"/>
       <component glyphName="omacron" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="one" xMin="81" yMin="0" xMax="803" yMax="1515">
+    <TTGlyph name="one" xMin="81" yMin="0" xMax="802" yMax="1515">
       <contour>
         <pt x="81" y="1400" on="1"/>
         <pt x="408" y="1515" on="1"/>
@@ -6604,7 +6606,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="one.superior" xMin="116" yMin="1055" xMax="336" yMax="1515">
+    <TTGlyph name="one.superior" xMin="117" yMin="1055" xMax="336" yMax="1515">
       <contour>
         <pt x="117" y="1480" on="1"/>
         <pt x="216" y="1515" on="1"/>
@@ -6622,11 +6624,11 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="onedotenleader" xMin="50" yMin="0" xMax="295" yMax="243">
+    <TTGlyph name="onedotenleader" xMin="51" yMin="0" xMax="295" yMax="243">
       <component glyphName="period" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="onehalf" xMin="58" yMin="-47" xMax="1114" yMax="1554">
+    <TTGlyph name="onehalf" xMin="58" yMin="-47" xMax="1113" yMax="1554">
       <contour>
         <pt x="58" y="1458" on="1"/>
         <pt x="221" y="1515" on="1"/>
@@ -6681,7 +6683,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="onequarter" xMin="58" yMin="-47" xMax="1102" yMax="1554">
+    <TTGlyph name="onequarter" xMin="58" yMin="-47" xMax="1101" yMax="1554">
       <contour>
         <pt x="681" y="275" on="1"/>
         <pt x="867" y="275" on="1"/>
@@ -6723,7 +6725,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="oogonek" xMin="59" yMin="-349" xMax="924" yMax="1073">
+    <TTGlyph name="oogonek" xMin="59" yMin="-354" xMax="923" yMax="1073">
       <contour>
         <pt x="523" y="-151" on="1"/>
         <pt x="523" y="-197" on="0"/>
@@ -6778,12 +6780,12 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="oogonekmacron" xMin="59" yMin="-349" xMax="924" yMax="1309">
+    <TTGlyph name="oogonekmacron" xMin="59" yMin="-354" xMax="923" yMax="1309">
       <component glyphName="macron" x="139" y="-43" flags="0x1004"/>
       <component glyphName="oogonek" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ordfeminine" xMin="100" yMin="1044" xMax="455" yMax="1519">
+    <TTGlyph name="ordfeminine" xMin="100" yMin="1044" xMax="454" yMax="1519">
       <contour>
         <pt x="246" y="1123" on="1"/>
         <pt x="285" y="1123" on="0"/>
@@ -6831,7 +6833,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="ordmasculine" xMin="95" yMin="1048" xMax="472" yMax="1524">
+    <TTGlyph name="ordmasculine" xMin="96" yMin="1048" xMax="472" yMax="1524">
       <contour>
         <pt x="189" y="1127" on="0"/>
         <pt x="379" y="1127" on="0"/>
@@ -6856,7 +6858,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="oslash" xMin="59" yMin="-64" xMax="924" yMax="1128">
+    <TTGlyph name="oslash" xMin="59" yMin="-64" xMax="923" yMax="1128">
       <contour>
         <pt x="560" y="883" on="1"/>
         <pt x="530" y="892" on="0"/>
@@ -6904,27 +6906,27 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="oslashacute" xMin="59" yMin="-64" xMax="924" yMax="1648">
+    <TTGlyph name="oslashacute" xMin="59" yMin="-64" xMax="923" yMax="1648">
       <component glyphName="acute" x="303" y="129" flags="0x1004"/>
       <component glyphName="oslash" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="otilde" xMin="59" yMin="-19" xMax="924" yMax="1461">
+    <TTGlyph name="otilde" xMin="59" yMin="-19" xMax="923" yMax="1461">
       <component glyphName="tilde" x="491" y="1076" flags="0x1004"/>
       <component glyphName="o" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="otildeacute" xMin="59" yMin="-19" xMax="924" yMax="1931">
+    <TTGlyph name="otildeacute" xMin="59" yMin="-19" xMax="923" yMax="1931">
       <component glyphName="acute" x="177" y="412" flags="0x1004"/>
       <component glyphName="otilde" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="otildedieresis" xMin="59" yMin="-19" xMax="924" yMax="1750">
+    <TTGlyph name="otildedieresis" xMin="59" yMin="-19" xMax="923" yMax="1750">
       <component glyphName="dieresis" x="191" y="304" flags="0x1004"/>
       <component glyphName="otilde" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="otildemacron" xMin="59" yMin="-19" xMax="924" yMax="1628">
+    <TTGlyph name="otildemacron" xMin="59" yMin="-19" xMax="923" yMax="1628">
       <component glyphName="macron" x="131" y="276" flags="0x1004"/>
       <component glyphName="otilde" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
@@ -6944,7 +6946,7 @@
       <component glyphName="overline" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="p" xMin="118" yMin="-410" xMax="985" yMax="1073">
+    <TTGlyph name="p" xMin="119" yMin="-410" xMax="985" yMax="1073">
       <contour>
         <pt x="333" y="266" on="1"/>
         <pt x="432" y="163" on="0"/>
@@ -6986,12 +6988,12 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="pacute" xMin="118" yMin="-410" xMax="985" yMax="1612">
+    <TTGlyph name="pacute" xMin="119" yMin="-410" xMax="985" yMax="1612">
       <component glyphName="acute" x="380" y="93" flags="0x1004"/>
       <component glyphName="p" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="paragraph" xMin="52" yMin="0" xMax="1025" yMax="1515">
+    <TTGlyph name="paragraph" xMin="53" yMin="0" xMax="1025" yMax="1515">
       <contour>
         <pt x="659" y="813" on="1"/>
         <pt x="797" y="813" on="1"/>
@@ -7036,12 +7038,12 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="parallel" xMin="64" yMin="-141" xMax="652" yMax="1563">
+    <TTGlyph name="parallel" xMin="65" yMin="-141" xMax="652" yMax="1563">
       <component glyphName="bar" x="348" y="0" flags="0x1004"/>
       <component glyphName="bar" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="parenleft" xMin="79" yMin="-317" xMax="608" yMax="1695">
+    <TTGlyph name="parenleft" xMin="79" yMin="-317" xMax="607" yMax="1695">
       <contour>
         <pt x="317" y="784" on="0"/>
         <pt x="317" y="594" on="0"/>
@@ -7106,12 +7108,12 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="pdotaccent" xMin="118" yMin="-410" xMax="985" yMax="1431">
+    <TTGlyph name="pdotaccent" xMin="119" yMin="-410" xMax="985" yMax="1431">
       <component glyphName="dotaccent" x="568" y="1066" flags="0x1004"/>
       <component glyphName="p" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="percent" xMin="15" yMin="-75" xMax="1091" yMax="1584">
+    <TTGlyph name="percent" xMin="15" yMin="-75" xMax="1090" yMax="1584">
       <contour>
         <pt x="198" y="1298" on="0"/>
         <pt x="198" y="1184" on="0"/>
@@ -7162,7 +7164,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="period" xMin="50" yMin="0" xMax="295" yMax="243">
+    <TTGlyph name="period" xMin="51" yMin="0" xMax="295" yMax="243">
       <contour>
         <pt x="51" y="0" on="1"/>
         <pt x="51" y="243" on="1"/>
@@ -7173,7 +7175,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="periodcentered" xMin="50" yMin="744" xMax="295" yMax="987">
+    <TTGlyph name="periodcentered" xMin="51" yMin="744" xMax="295" yMax="987">
       <contour>
         <pt x="51" y="744" on="1"/>
         <pt x="51" y="987" on="1"/>
@@ -7184,21 +7186,21 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="perthousand" xMin="16" yMin="-75" xMax="1669" yMax="1584">
+    <TTGlyph name="perthousand" xMin="17" yMin="-75" xMax="1669" yMax="1584">
       <component glyphName="degree" x="983" y="-981" flags="0x1004"/>
       <component glyphName="percent" x="2" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="pipe" xMin="64" yMin="-141" xMax="304" yMax="1563">
+    <TTGlyph name="pipe" xMin="65" yMin="-141" xMax="304" yMax="1563">
       <component glyphName="bar" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="pipedbl" xMin="71" yMin="-141" xMax="659" yMax="1563">
+    <TTGlyph name="pipedbl" xMin="71" yMin="-141" xMax="658" yMax="1563">
       <component glyphName="bar" x="354" y="0" flags="0x1004"/>
       <component glyphName="bar" x="6" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="plus" xMin="31" yMin="319" xMax="873" yMax="1162">
+    <TTGlyph name="plus" xMin="32" yMin="319" xMax="873" yMax="1162">
       <contour>
         <pt x="32" y="633" on="1"/>
         <pt x="32" y="848" on="1"/>
@@ -7217,7 +7219,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="plusminus" xMin="34" yMin="189" xMax="876" yMax="1328">
+    <TTGlyph name="plusminus" xMin="35" yMin="189" xMax="876" yMax="1328">
       <component glyphName="minus" x="3" y="-444" flags="0x1004"/>
       <component glyphName="plus" x="3" y="166" flags="0x1004"/>
     </TTGlyph>
@@ -7263,7 +7265,7 @@
       <component glyphName="primereverse" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="q" xMin="59" yMin="-410" xMax="926" yMax="1073">
+    <TTGlyph name="q" xMin="59" yMin="-410" xMax="925" yMax="1073">
       <contour>
         <pt x="711" y="266" on="1"/>
         <pt x="711" y="266" on="0"/>
@@ -7306,7 +7308,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="question" xMin="74" yMin="0" xMax="802" yMax="1526">
+    <TTGlyph name="question" xMin="75" yMin="0" xMax="802" yMax="1526">
       <contour>
         <pt x="234" y="0" on="1"/>
         <pt x="234" y="243" on="1"/>
@@ -7349,12 +7351,12 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="questiondbl" xMin="82" yMin="0" xMax="1541" yMax="1526">
+    <TTGlyph name="questiondbl" xMin="82" yMin="0" xMax="1540" yMax="1526">
       <component glyphName="question" x="738" y="0" flags="0x1004"/>
       <component glyphName="question" x="7" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="questiondown" xMin="74" yMin="0" xMax="802" yMax="1526">
+    <TTGlyph name="questiondown" xMin="75" yMin="0" xMax="802" yMax="1526">
       <contour>
         <pt x="643" y="1526" on="1"/>
         <pt x="643" y="1283" on="1"/>
@@ -7397,17 +7399,17 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="questionexclam" xMin="82" yMin="0" xMax="1165" yMax="1526">
+    <TTGlyph name="questionexclam" xMin="82" yMin="0" xMax="1164" yMax="1526">
       <component glyphName="exclam" x="870" y="0" flags="0x1004"/>
       <component glyphName="question" x="7" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="quotedbl" xMin="22" yMin="1000" xMax="584" yMax="1493">
+    <TTGlyph name="quotedbl" xMin="23" yMin="1000" xMax="584" yMax="1493">
       <component glyphName="comma" x="290" y="1296" flags="0x1004"/>
       <component glyphName="comma" x="-21" y="1296" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="quotedblbase" xMin="24" yMin="-47" xMax="586" yMax="446">
+    <TTGlyph name="quotedblbase" xMin="25" yMin="-47" xMax="586" yMax="446">
       <component glyphName="quotedblright" x="2" y="-1047" flags="0x1004"/>
     </TTGlyph>
 
@@ -7438,11 +7440,11 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="quotedblright" xMin="22" yMin="1000" xMax="584" yMax="1493">
+    <TTGlyph name="quotedblright" xMin="23" yMin="1000" xMax="584" yMax="1493">
       <component glyphName="quotedbl" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="quotequad" xMin="48" yMin="1000" xMax="1301" yMax="1493">
+    <TTGlyph name="quotequad" xMin="48" yMin="1000" xMax="1300" yMax="1493">
       <component glyphName="quotesingle" x="1006" y="0" flags="0x1004"/>
       <component glyphName="quotesingle" x="672" y="0" flags="0x1004"/>
       <component glyphName="quotesingle" x="338" y="0" flags="0x1004"/>
@@ -7481,7 +7483,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="racute" xMin="110" yMin="0" xMax="796" yMax="1565">
+    <TTGlyph name="racute" xMin="110" yMin="0" xMax="795" yMax="1565">
       <component glyphName="acute" x="241" y="46" flags="0x1004"/>
       <component glyphName="r" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
@@ -7496,7 +7498,7 @@
       <component glyphName="r" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="rdblgrave" xMin="27" yMin="0" xMax="824" yMax="1611">
+    <TTGlyph name="rdblgrave" xMin="27" yMin="0" xMax="823" yMax="1611">
       <component glyphName="dblgravecomb" x="-142" y="93" flags="0x1004"/>
       <component glyphName="r" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
@@ -7559,7 +7561,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="registered" xMin="59" yMin="252" xMax="1040" yMax="1232">
+    <TTGlyph name="registered" xMin="59" yMin="252" xMax="1039" yMax="1232">
       <contour>
         <pt x="568" y="787" on="1"/>
         <pt x="638" y="787" on="0"/>
@@ -7622,7 +7624,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="ring" xMin="-316" yMin="96" xMax="259" yMax="670">
+    <TTGlyph name="ring" xMin="-316" yMin="96" xMax="258" yMax="670">
       <contour>
         <pt x="-166" y="440" on="0"/>
         <pt x="-166" y="326" on="0"/>
@@ -7647,11 +7649,11 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="ringcomb" xMin="112" yMin="954" xMax="687" yMax="1528">
+    <TTGlyph name="ringcomb" xMin="112" yMin="954" xMax="686" yMax="1528">
       <component glyphName="degree" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ringoperator" xMin="112" yMin="456" xMax="687" yMax="1030">
+    <TTGlyph name="ringoperator" xMin="112" yMin="456" xMax="686" yMax="1030">
       <component glyphName="degree" x="0" y="-498" flags="0x1204"/>
     </TTGlyph>
 
@@ -7665,7 +7667,7 @@
       <component glyphName="r" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="s" xMin="67" yMin="-18" xMax="824" yMax="1073">
+    <TTGlyph name="s" xMin="67" yMin="-18" xMax="823" yMax="1073">
       <contour>
         <pt x="67" y="212" on="1"/>
         <pt x="215" y="302" on="1"/>
@@ -7721,27 +7723,27 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="sacute" xMin="67" yMin="-18" xMax="850" yMax="1565">
+    <TTGlyph name="sacute" xMin="67" yMin="-18" xMax="849" yMax="1565">
       <component glyphName="acute" x="295" y="46" flags="0x1004"/>
       <component glyphName="s" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="sacutedotaccent" xMin="67" yMin="-18" xMax="850" yMax="1761">
+    <TTGlyph name="sacutedotaccent" xMin="67" yMin="-18" xMax="849" yMax="1761">
       <component glyphName="dotaccent" x="460" y="1396" flags="0x1004"/>
       <component glyphName="sacute" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="scaron" xMin="67" yMin="-18" xMax="824" yMax="1531">
+    <TTGlyph name="scaron" xMin="67" yMin="-18" xMax="823" yMax="1531">
       <component glyphName="caron" x="119" y="56" flags="0x1004"/>
       <component glyphName="s" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="scarondotaccent" xMin="67" yMin="-18" xMax="824" yMax="1840">
+    <TTGlyph name="scarondotaccent" xMin="67" yMin="-18" xMax="823" yMax="1840">
       <component glyphName="dotaccent" x="439" y="1475" flags="0x1004"/>
       <component glyphName="scaron" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="scedilla" xMin="67" yMin="-348" xMax="824" yMax="1073">
+    <TTGlyph name="scedilla" xMin="67" yMin="-353" xMax="823" yMax="1073">
       <contour>
         <pt x="67" y="212" on="1"/>
         <pt x="215" y="302" on="1"/>
@@ -7811,36 +7813,36 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="schwa" xMin="42" yMin="-18" xMax="860" yMax="1073">
+    <TTGlyph name="schwa" xMin="39" yMin="-18" xMax="860" yMax="1073">
       <component glyphName="e" x="919" y="1055" scale="-1.0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="scircumflex" xMin="67" yMin="-18" xMax="824" yMax="1502">
+    <TTGlyph name="scircumflex" xMin="67" yMin="-18" xMax="823" yMax="1502">
       <component glyphName="asciicircum" x="119" y="56" flags="0x1004"/>
       <component glyphName="s" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="scommaaccent" xMin="67" yMin="-579" xMax="824" yMax="1073">
+    <TTGlyph name="scommaaccent" xMin="67" yMin="-579" xMax="823" yMax="1073">
       <component glyphName="comma" x="307" y="-283" flags="0x1004"/>
       <component glyphName="s" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="sdotaccent" xMin="67" yMin="-18" xMax="824" yMax="1431">
+    <TTGlyph name="sdotaccent" xMin="67" yMin="-18" xMax="823" yMax="1431">
       <component glyphName="dotaccent" x="431" y="1066" flags="0x1004"/>
       <component glyphName="s" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="sdotbelow" xMin="67" yMin="-283" xMax="824" yMax="1073">
+    <TTGlyph name="sdotbelow" xMin="67" yMin="-283" xMax="823" yMax="1073">
       <component glyphName="dotaccent" x="463" y="-405" flags="0x1004"/>
       <component glyphName="s" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="sdotbelowdotaccent" xMin="67" yMin="-283" xMax="824" yMax="1431">
+    <TTGlyph name="sdotbelowdotaccent" xMin="67" yMin="-283" xMax="823" yMax="1431">
       <component glyphName="dotaccent" x="431" y="1066" flags="0x1004"/>
       <component glyphName="sdotbelow" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="section" xMin="68" yMin="-18" xMax="825" yMax="1369">
+    <TTGlyph name="section" xMin="68" yMin="-18" xMax="824" yMax="1369">
       <contour>
         <pt x="789" y="436" on="1"/>
         <pt x="797" y="420" on="0"/>
@@ -7948,7 +7950,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="seven" xMin="67" yMin="0" xMax="987" yMax="1515">
+    <TTGlyph name="seven" xMin="67" yMin="0" xMax="986" yMax="1515">
       <contour>
         <pt x="67" y="1290" on="1"/>
         <pt x="67" y="1515" on="1"/>
@@ -7981,14 +7983,14 @@
       <component glyphName="slash" x="0" y="9" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="slongdotaccent" xMin="-7" yMin="0" xMax="578" yMax="1890">
+    <TTGlyph name="slongdotaccent" xMin="-7" yMin="0" xMax="577" yMax="1890">
       <component glyphName="dotaccent" x="408" y="1525" flags="0x1004"/>
       <component glyphName="longs" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
     <TTGlyph name="space"/><!-- contains no outline data -->
 
-    <TTGlyph name="sterling" xMin="24" yMin="0" xMax="1074" yMax="1531">
+    <TTGlyph name="sterling" xMin="24" yMin="0" xMax="1073" yMax="1531">
       <contour>
         <pt x="386" y="488" on="1"/>
         <pt x="386" y="252" on="0"/>
@@ -8046,7 +8048,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="t" xMin="17" yMin="-21" xMax="610" yMax="1440">
+    <TTGlyph name="t" xMin="18" yMin="-21" xMax="610" yMax="1440">
       <contour>
         <pt x="18" y="874" on="1"/>
         <pt x="18" y="1055" on="1"/>
@@ -8081,22 +8083,22 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="t_comma" xMin="17" yMin="-581" xMax="610" yMax="1440">
+    <TTGlyph name="t_comma" xMin="18" yMin="-581" xMax="610" yMax="1440">
       <component glyphName="comma" x="200" y="-285" flags="0x1004"/>
       <component glyphName="t" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="tcaron" xMin="19" yMin="-21" xMax="829" yMax="1562">
+    <TTGlyph name="tcaron" xMin="20" yMin="-21" xMax="829" yMax="1562">
       <component glyphName="comma" x="535" y="1365" flags="0x1004"/>
       <component glyphName="t" x="2" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="tcircumflexbelow" xMin="17" yMin="-451" xMax="646" yMax="1440">
+    <TTGlyph name="tcircumflexbelow" xMin="18" yMin="-451" xMax="646" yMax="1440">
       <component glyphName="asciicircum" x="80" y="-1554" flags="0x1004"/>
       <component glyphName="t" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="tcommaaccent" xMin="17" yMin="-350" xMax="610" yMax="1440">
+    <TTGlyph name="tcommaaccent" xMin="18" yMin="-355" xMax="610" yMax="1440">
       <contour>
         <pt x="18" y="874" on="1"/>
         <pt x="18" y="1055" on="1"/>
@@ -8148,17 +8150,17 @@
       <component glyphName="t" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="tdotaccent" xMin="17" yMin="-21" xMax="610" yMax="1805">
+    <TTGlyph name="tdotaccent" xMin="18" yMin="-21" xMax="610" yMax="1805">
       <component glyphName="dotaccent" x="241" y="1440" flags="0x1004"/>
       <component glyphName="t" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="tdotbelow" xMin="17" yMin="-285" xMax="610" yMax="1440">
+    <TTGlyph name="tdotbelow" xMin="18" yMin="-285" xMax="610" yMax="1440">
       <component glyphName="dotaccent" x="392" y="-407" flags="0x1004"/>
       <component glyphName="t" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="thorn" xMin="118" yMin="-409" xMax="971" yMax="1515">
+    <TTGlyph name="thorn" xMin="119" yMin="-409" xMax="971" yMax="1515">
       <contour>
         <pt x="333" y="231" on="1"/>
         <pt x="389" y="163" on="0"/>
@@ -8204,7 +8206,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="three" xMin="52" yMin="-18" xMax="1069" yMax="1535">
+    <TTGlyph name="three" xMin="53" yMin="-18" xMax="1069" yMax="1535">
       <contour>
         <pt x="53" y="249" on="1"/>
         <pt x="212" y="378" on="1"/>
@@ -8258,7 +8260,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="three.superior" xMin="101" yMin="1046" xMax="410" yMax="1517">
+    <TTGlyph name="three.superior" xMin="101" yMin="1046" xMax="409" yMax="1517">
       <contour>
         <pt x="113" y="1448" on="1"/>
         <pt x="162" y="1517" on="0"/>
@@ -8297,7 +8299,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="threequarters" xMin="61" yMin="-47" xMax="1180" yMax="1554">
+    <TTGlyph name="threequarters" xMin="62" yMin="-47" xMax="1180" yMax="1554">
       <contour>
         <pt x="760" y="275" on="1"/>
         <pt x="946" y="275" on="1"/>
@@ -8363,15 +8365,15 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="tilde" xMin="-382" yMin="119" xMax="323" yMax="385">
+    <TTGlyph name="tilde" xMin="-382" yMin="119" xMax="322" yMax="385">
       <component glyphName="asciitilde" x="-429" y="-993" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="tildecomb" xMin="47" yMin="1112" xMax="752" yMax="1378">
+    <TTGlyph name="tildecomb" xMin="47" yMin="1112" xMax="751" yMax="1378">
       <component glyphName="asciitilde" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="tlinebelow" xMin="17" yMin="-267" xMax="635" yMax="1440">
+    <TTGlyph name="tlinebelow" xMin="18" yMin="-267" xMax="635" yMax="1440">
       <component glyphName="macron" x="-73" y="-1470" flags="0x1004"/>
       <component glyphName="t" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
@@ -8406,7 +8408,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="two" xMin="73" yMin="0" xMax="1080" yMax="1535">
+    <TTGlyph name="two" xMin="74" yMin="0" xMax="1080" yMax="1535">
       <contour>
         <pt x="74" y="0" on="1"/>
         <pt x="74" y="137" on="0"/>
@@ -8453,7 +8455,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="two.superior" xMin="94" yMin="1055" xMax="401" yMax="1522">
+    <TTGlyph name="two.superior" xMin="95" yMin="1055" xMax="401" yMax="1522">
       <contour>
         <pt x="95" y="1055" on="1"/>
         <pt x="95" y="1132" on="0"/>
@@ -8485,12 +8487,12 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="twodotenleader" xMin="55" yMin="0" xMax="634" yMax="243">
+    <TTGlyph name="twodotenleader" xMin="56" yMin="0" xMax="634" yMax="243">
       <component glyphName="period" x="339" y="0" flags="0x1004"/>
       <component glyphName="period" x="5" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="u" xMin="118" yMin="-18" xMax="901" yMax="1055">
+    <TTGlyph name="u" xMin="119" yMin="-18" xMax="901" yMax="1055">
       <contour>
         <pt x="119" y="264" on="1"/>
         <pt x="119" y="1055" on="1"/>
@@ -8516,42 +8518,42 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="uacute" xMin="118" yMin="-18" xMax="901" yMax="1619">
+    <TTGlyph name="uacute" xMin="119" yMin="-18" xMax="901" yMax="1619">
       <component glyphName="acutecomb" x="322" y="100" flags="0x1004"/>
       <component glyphName="u" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ubreve" xMin="118" yMin="-18" xMax="901" yMax="1424">
+    <TTGlyph name="ubreve" xMin="119" yMin="-18" xMax="901" yMax="1424">
       <component glyphName="breve" x="245" y="73" flags="0x1004"/>
       <component glyphName="u" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ucaron" xMin="118" yMin="-18" xMax="901" yMax="1531">
+    <TTGlyph name="ucaron" xMin="119" yMin="-18" xMax="901" yMax="1531">
       <component glyphName="caron" x="198" y="56" flags="0x1004"/>
       <component glyphName="u" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ucircumflex" xMin="118" yMin="-18" xMax="901" yMax="1538">
+    <TTGlyph name="ucircumflex" xMin="119" yMin="-18" xMax="901" yMax="1538">
       <component glyphName="circumflex" x="199" y="61" flags="0x1004"/>
       <component glyphName="u" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ucircumflexbelow" xMin="118" yMin="-449" xMax="901" yMax="1055">
+    <TTGlyph name="ucircumflexbelow" xMin="119" yMin="-449" xMax="901" yMax="1055">
       <component glyphName="asciicircum" x="169" y="-1552" flags="0x1004"/>
       <component glyphName="u" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="udblgrave" xMin="118" yMin="-18" xMax="993" yMax="1611">
+    <TTGlyph name="udblgrave" xMin="119" yMin="-18" xMax="992" yMax="1611">
       <component glyphName="dblgravecomb" x="27" y="93" flags="0x1004"/>
       <component glyphName="u" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="udieresis" xMin="118" yMin="-18" xMax="901" yMax="1438">
+    <TTGlyph name="udieresis" xMin="119" yMin="-18" xMax="901" yMax="1438">
       <component glyphName="dieresis" x="184" y="-8" flags="0x1004"/>
       <component glyphName="u" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="udieresisacute" xMin="118" yMin="-18" xMax="901" yMax="1984">
+    <TTGlyph name="udieresisacute" xMin="119" yMin="-18" xMax="901" yMax="1984">
       <component glyphName="acutecomb" x="322" y="465" flags="0x1004"/>
       <component glyphName="udieresis" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
@@ -8561,52 +8563,52 @@
       <component glyphName="u" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="udieresiscaron" xMin="118" yMin="-18" xMax="901" yMax="1903">
+    <TTGlyph name="udieresiscaron" xMin="119" yMin="-18" xMax="901" yMax="1903">
       <component glyphName="caron" x="198" y="428" flags="0x1004"/>
       <component glyphName="udieresis" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="udieresisgrave" xMin="118" yMin="-18" xMax="901" yMax="1984">
+    <TTGlyph name="udieresisgrave" xMin="119" yMin="-18" xMax="901" yMax="1984">
       <component glyphName="gravecomb" x="14" y="466" flags="0x1004"/>
       <component glyphName="udieresis" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="udieresismacron" xMin="118" yMin="-18" xMax="901" yMax="1709">
+    <TTGlyph name="udieresismacron" xMin="119" yMin="-18" xMax="901" yMax="1709">
       <component glyphName="macron" x="115" y="357" flags="0x1004"/>
       <component glyphName="udieresis" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="udotbelow" xMin="118" yMin="-283" xMax="901" yMax="1055">
+    <TTGlyph name="udotbelow" xMin="119" yMin="-283" xMax="901" yMax="1055">
       <component glyphName="dotaccent" x="511" y="-405" flags="0x1004"/>
       <component glyphName="u" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ugrave" xMin="118" yMin="-18" xMax="901" yMax="1619">
+    <TTGlyph name="ugrave" xMin="119" yMin="-18" xMax="901" yMax="1619">
       <component glyphName="gravecomb" x="14" y="101" flags="0x1004"/>
       <component glyphName="u" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="uhungarumlaut" xMin="118" yMin="-18" xMax="901" yMax="1608">
+    <TTGlyph name="uhungarumlaut" xMin="119" yMin="-18" xMax="901" yMax="1608">
       <component glyphName="hungarumlaut" x="485" y="993" flags="0x1004"/>
       <component glyphName="u" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="uinvertedbreve" xMin="118" yMin="-18" xMax="901" yMax="1424">
+    <TTGlyph name="uinvertedbreve" xMin="119" yMin="-18" xMax="901" yMax="1424">
       <component glyphName="breveinvertedcomb" x="245" y="73" flags="0x1004"/>
       <component glyphName="u" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="umacron" xMin="118" yMin="-18" xMax="901" yMax="1309">
+    <TTGlyph name="umacron" xMin="119" yMin="-18" xMax="901" yMax="1309">
       <component glyphName="macron" x="157" y="-43" flags="0x1004"/>
       <component glyphName="u" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="umacrondieresis" xMin="118" yMin="-18" xMax="901" yMax="1645">
+    <TTGlyph name="umacrondieresis" xMin="119" yMin="-18" xMax="901" yMax="1645">
       <component glyphName="dieresis" x="183" y="199" flags="0x1004"/>
       <component glyphName="umacron" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="underscore" xMin="79" yMin="0" xMax="1048" yMax="181">
+    <TTGlyph name="underscore" xMin="79" yMin="0" xMax="1047" yMax="181">
       <contour>
         <pt x="79" y="0" on="1"/>
         <pt x="79" y="181" on="1"/>
@@ -8617,7 +8619,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="uni00AD" xMin="101" yMin="666" xMax="1030" yMax="815">
+    <TTGlyph name="uni00AD" xMin="101" yMin="666" xMax="1029" yMax="815">
       <contour>
         <pt x="101" y="666" on="1"/>
         <pt x="101" y="815" on="1"/>
@@ -8632,32 +8634,32 @@
       <component glyphName="space" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="uogonek" xMin="118" yMin="-348" xMax="970" yMax="1055">
+    <TTGlyph name="uogonek" xMin="119" yMin="-353" xMax="970" yMax="1055">
       <component glyphName="ogonek" x="679" y="-1" flags="0x1004"/>
       <component glyphName="u" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="uring" xMin="118" yMin="-18" xMax="901" yMax="1661">
+    <TTGlyph name="uring" xMin="119" yMin="-18" xMax="901" yMax="1661">
       <component glyphName="degree" x="163" y="133" flags="0x1004"/>
       <component glyphName="u" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="utilde" xMin="118" yMin="-18" xMax="901" yMax="1451">
+    <TTGlyph name="utilde" xMin="119" yMin="-18" xMax="901" yMax="1451">
       <component glyphName="asciitilde" x="115" y="73" flags="0x1004"/>
       <component glyphName="u" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="utildeacute" xMin="118" yMin="-18" xMax="947" yMax="1931">
+    <TTGlyph name="utildeacute" xMin="119" yMin="-18" xMax="947" yMax="1931">
       <component glyphName="acute" x="393" y="412" flags="0x1004"/>
       <component glyphName="utilde" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="utildebelow" xMin="118" yMin="-333" xMax="901" yMax="1055">
+    <TTGlyph name="utildebelow" xMin="119" yMin="-333" xMax="901" yMax="1055">
       <component glyphName="tilde" x="507" y="-452" flags="0x1004"/>
       <component glyphName="u" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="v" xMin="5" yMin="0" xMax="897" yMax="1055">
+    <TTGlyph name="v" xMin="6" yMin="0" xMax="896" yMax="1055">
       <contour>
         <pt x="6" y="1055" on="1"/>
         <pt x="232" y="1055" on="1"/>
@@ -8671,7 +8673,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="vdotbelow" xMin="5" yMin="-272" xMax="897" yMax="1055">
+    <TTGlyph name="vdotbelow" xMin="6" yMin="-272" xMax="896" yMax="1055">
       <component glyphName="dotaccent" x="450" y="-394" flags="0x1004"/>
       <component glyphName="v" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
@@ -8793,7 +8795,7 @@
       <component glyphName="quotesingle" x="0" y="45" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="vtilde" xMin="5" yMin="0" xMax="897" yMax="1451">
+    <TTGlyph name="vtilde" xMin="6" yMin="0" xMax="896" yMax="1451">
       <component glyphName="tilde" x="450" y="1066" flags="0x1004"/>
       <component glyphName="v" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
@@ -8853,7 +8855,7 @@
       <component glyphName="w" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="x" xMin="2" yMin="0" xMax="895" yMax="1055">
+    <TTGlyph name="x" xMin="2" yMin="0" xMax="894" yMax="1055">
       <contour>
         <pt x="2" y="1055" on="1"/>
         <pt x="232" y="1055" on="1"/>
@@ -8872,17 +8874,17 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="xdieresis" xMin="2" yMin="0" xMax="895" yMax="1431">
+    <TTGlyph name="xdieresis" xMin="2" yMin="0" xMax="894" yMax="1431">
       <component glyphName="dieresis" x="73" y="-15" flags="0x1004"/>
       <component glyphName="x" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="xdotaccent" xMin="2" yMin="0" xMax="895" yMax="1431">
+    <TTGlyph name="xdotaccent" xMin="2" yMin="0" xMax="894" yMax="1431">
       <component glyphName="dotaccent" x="400" y="1066" flags="0x1004"/>
       <component glyphName="x" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="y" xMin="2" yMin="-407" xMax="899" yMax="1055">
+    <TTGlyph name="y" xMin="2" yMin="-437" xMax="898" yMax="1055">
       <contour>
         <pt x="2" y="1055" on="1"/>
         <pt x="240" y="1055" on="1"/>
@@ -8913,32 +8915,32 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="yacute" xMin="2" yMin="-407" xMax="899" yMax="1619">
+    <TTGlyph name="yacute" xMin="2" yMin="-437" xMax="898" yMax="1619">
       <component glyphName="acutecomb" x="262" y="100" flags="0x1004"/>
       <component glyphName="y" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ycircumflex" xMin="2" yMin="-407" xMax="899" yMax="1502">
+    <TTGlyph name="ycircumflex" xMin="2" yMin="-437" xMax="898" yMax="1502">
       <component glyphName="asciicircum" x="138" y="56" flags="0x1004"/>
       <component glyphName="y" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ydieresis" xMin="2" yMin="-407" xMax="899" yMax="1438">
+    <TTGlyph name="ydieresis" xMin="2" yMin="-437" xMax="898" yMax="1438">
       <component glyphName="dieresis" x="124" y="-8" flags="0x1004"/>
       <component glyphName="y" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ydotaccent" xMin="2" yMin="-407" xMax="899" yMax="1431">
+    <TTGlyph name="ydotaccent" xMin="2" yMin="-437" xMax="898" yMax="1431">
       <component glyphName="dotaccent" x="450" y="1066" flags="0x1004"/>
       <component glyphName="y" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ydotbelow" xMin="2" yMin="-407" xMax="899" yMax="1055">
+    <TTGlyph name="ydotbelow" xMin="2" yMin="-437" xMax="898" yMax="1055">
       <component glyphName="dotaccent" x="581" y="-505" flags="0x1004"/>
       <component glyphName="y" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="yen" xMin="4" yMin="0" xMax="1119" yMax="1515">
+    <TTGlyph name="yen" xMin="4" yMin="0" xMax="1118" yMax="1515">
       <contour>
         <pt x="4" y="1515" on="1"/>
         <pt x="258" y="1515" on="1"/>
@@ -8968,27 +8970,27 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="ygrave" xMin="2" yMin="-407" xMax="899" yMax="1611">
+    <TTGlyph name="ygrave" xMin="2" yMin="-437" xMax="898" yMax="1611">
       <component glyphName="grave" x="-44" y="93" flags="0x1004"/>
       <component glyphName="y" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ymacron" xMin="2" yMin="-407" xMax="899" yMax="1309">
+    <TTGlyph name="ymacron" xMin="2" yMin="-437" xMax="898" yMax="1309">
       <component glyphName="macron" x="97" y="-43" flags="0x1004"/>
       <component glyphName="y" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="yring" xMin="2" yMin="-407" xMax="899" yMax="1736">
+    <TTGlyph name="yring" xMin="2" yMin="-437" xMax="898" yMax="1736">
       <component glyphName="ring" x="450" y="1066" flags="0x1004"/>
       <component glyphName="y" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ytilde" xMin="2" yMin="-407" xMax="899" yMax="1451">
+    <TTGlyph name="ytilde" xMin="2" yMin="-437" xMax="898" yMax="1451">
       <component glyphName="tilde" x="450" y="1066" flags="0x1004"/>
       <component glyphName="y" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="z" xMin="2" yMin="0" xMax="791" yMax="1055">
+    <TTGlyph name="z" xMin="2" yMin="0" xMax="790" yMax="1055">
       <contour>
         <pt x="2" y="0" on="1"/>
         <pt x="2" y="137" on="1"/>
@@ -9005,32 +9007,32 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="zacute" xMin="2" yMin="0" xMax="833" yMax="1565">
+    <TTGlyph name="zacute" xMin="2" yMin="0" xMax="832" yMax="1565">
       <component glyphName="acute" x="278" y="46" flags="0x1004"/>
       <component glyphName="z" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="zcaron" xMin="2" yMin="0" xMax="791" yMax="1531">
+    <TTGlyph name="zcaron" xMin="2" yMin="0" xMax="790" yMax="1531">
       <component glyphName="caron" x="102" y="56" flags="0x1004"/>
       <component glyphName="z" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="zcircumflex" xMin="2" yMin="0" xMax="791" yMax="1502">
+    <TTGlyph name="zcircumflex" xMin="2" yMin="0" xMax="790" yMax="1502">
       <component glyphName="asciicircum" x="102" y="56" flags="0x1004"/>
       <component glyphName="z" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="zdotaccent" xMin="2" yMin="0" xMax="791" yMax="1431">
+    <TTGlyph name="zdotaccent" xMin="2" yMin="0" xMax="790" yMax="1431">
       <component glyphName="dotaccent" x="414" y="1066" flags="0x1004"/>
       <component glyphName="z" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="zdotbelow" xMin="2" yMin="-272" xMax="791" yMax="1055">
+    <TTGlyph name="zdotbelow" xMin="2" yMin="-272" xMax="790" yMax="1055">
       <component glyphName="dotaccent" x="388" y="-394" flags="0x1004"/>
       <component glyphName="z" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="zero" xMin="62" yMin="-12" xMax="1084" yMax="1533">
+    <TTGlyph name="zero" xMin="63" yMin="-12" xMax="1084" yMax="1533">
       <contour>
         <pt x="845" y="746" on="1"/>
         <pt x="845" y="1332" on="0"/>
@@ -9079,7 +9081,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="zlinebelow" xMin="2" yMin="-242" xMax="791" yMax="1055">
+    <TTGlyph name="zlinebelow" xMin="2" yMin="-242" xMax="790" yMax="1055">
       <component glyphName="macron" x="34" y="-1445" flags="0x1004"/>
       <component glyphName="z" x="0" y="0" flags="0x1204"/>
     </TTGlyph>

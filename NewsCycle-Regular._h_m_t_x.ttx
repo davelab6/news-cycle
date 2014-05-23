@@ -1127,6 +1127,7 @@
     <mtx name="n" width="970" lsb="120"/>
     <mtx name="nacute" width="970" lsb="120"/>
     <mtx name="napostrophe" width="1127" lsb="70"/>
+    <mtx name="nbsp" width="512" lsb="0"/>
     <mtx name="ncaron" width="970" lsb="120"/>
     <mtx name="ncircumflexbelow" width="970" lsb="120"/>
     <mtx name="ncommaaccent" width="970" lsb="120"/>

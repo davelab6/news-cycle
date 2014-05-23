@@ -501,6 +501,7 @@
       <psName name="ff"/>
       <psName name="ffi"/>
       <psName name="ffl"/>
+      <psName name="nbsp"/>
     </extraNames>
   </post>
 

@@ -705,7 +705,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="C" xMin="80" yMin="-17" xMax="1106" yMax="1532">
+    <TTGlyph name="C" xMin="80" yMin="-16" xMax="1106" yMax="1532">
       <contour>
         <pt x="97" y="522" on="0"/>
         <pt x="80" y="678" on="0"/>
@@ -1130,7 +1130,7 @@
       <component glyphName="X" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Chook" xMin="80" yMin="-17" xMax="1226" yMax="1532">
+    <TTGlyph name="Chook" xMin="80" yMin="-16" xMax="1226" yMax="1532">
       <contour>
         <pt x="961" y="1358" on="1"/>
         <pt x="980" y="1522" on="0"/>
@@ -2229,7 +2229,7 @@
       <component glyphName="E" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="Epsilonacute" xMin="-257" yMin="0" xMax="994" yMax="1533">
+    <TTGlyph name="Epsilonacute" xMin="-258" yMin="0" xMax="994" yMax="1533">
       <component glyphName="oxia" x="-438" y="53" flags="0x1004"/>
       <component glyphName="Epsilon" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
@@ -2574,7 +2574,7 @@
       <component glyphName="H" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="Etaacute" xMin="-257" yMin="0" xMax="1119" yMax="1533">
+    <TTGlyph name="Etaacute" xMin="-258" yMin="0" xMax="1119" yMax="1533">
       <component glyphName="oxia" x="-438" y="53" flags="0x1004"/>
       <component glyphName="Eta" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
@@ -3082,7 +3082,7 @@
       <component glyphName="Ghe" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Gammalatin" xMin="25" yMin="-11" xMax="876" yMax="1514">
+    <TTGlyph name="Gammalatin" xMin="8" yMin="-11" xMax="894" yMax="1514">
       <contour>
         <pt x="379" y="460" on="0"/>
         <pt x="282" y="341" on="0"/>
@@ -4315,7 +4315,7 @@
       <component glyphName="I" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="Iotaacute" xMin="-257" yMin="0" xMax="283" yMax="1533">
+    <TTGlyph name="Iotaacute" xMin="-258" yMin="0" xMax="283" yMax="1533">
       <component glyphName="oxia" x="-438" y="53" flags="0x1004"/>
       <component glyphName="Iota" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
@@ -4454,7 +4454,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="Izhitsa" xMin="25" yMin="0" xMax="1227" yMax="1524">
+    <TTGlyph name="Izhitsa" xMin="25" yMin="0" xMax="1227" yMax="1527">
       <contour>
         <pt x="25" y="1515" on="1"/>
         <pt x="179" y="1515" on="1"/>
@@ -5526,7 +5526,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="OT" xMin="80" yMin="-13" xMax="1398" yMax="1780">
+    <TTGlyph name="OT" xMin="80" yMin="-12" xMax="1398" yMax="1780">
       <contour>
         <pt x="739" y="225" on="1"/>
         <pt x="688" y="98" on="0"/>
@@ -5936,7 +5936,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="Omegaacute" xMin="-116" yMin="0" xMax="1275" yMax="1557">
+    <TTGlyph name="Omegaacute" xMin="-117" yMin="0" xMax="1275" yMax="1557">
       <component glyphName="oxia" x="-297" y="77" flags="0x1004"/>
       <component glyphName="Omega" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
@@ -5961,7 +5961,7 @@
       <component glyphName="Omega" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="Omegacyrillic" xMin="80" yMin="-13" xMax="1398" yMax="1515">
+    <TTGlyph name="Omegacyrillic" xMin="80" yMin="-12" xMax="1398" yMax="1515">
       <contour>
         <pt x="739" y="225" on="1"/>
         <pt x="688" y="98" on="0"/>
@@ -6164,7 +6164,7 @@
       <component glyphName="O" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="Omicronacute" xMin="-115" yMin="-16" xMax="1183" yMax="1533">
+    <TTGlyph name="Omicronacute" xMin="-116" yMin="-16" xMax="1183" yMax="1533">
       <component glyphName="oxia" x="-296" y="53" flags="0x1004"/>
       <component glyphName="Omicron" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
@@ -8399,7 +8399,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="Tretroflexhook" xMin="25" yMin="-329" xMax="1037" yMax="1515">
+    <TTGlyph name="Tretroflexhook" xMin="25" yMin="-328" xMax="1037" yMax="1515">
       <contour>
         <pt x="457" y="10" on="1"/>
         <pt x="457" y="1391" on="1"/>
@@ -8899,7 +8899,7 @@
       <component glyphName="Y" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Upsilon.alt" xMin="25" yMin="0" xMax="1215" yMax="1515">
+    <TTGlyph name="Upsilon.alt" xMin="25" yMin="0" xMax="1219" yMax="1515">
       <contour>
         <pt x="1077" y="1281" on="1"/>
         <pt x="1080" y="1315" on="0"/>
@@ -8930,7 +8930,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="Upsilonacute" xMin="-289" yMin="0" xMax="1097" yMax="1533">
+    <TTGlyph name="Upsilonacute" xMin="-290" yMin="0" xMax="1097" yMax="1533">
       <component glyphName="oxia" x="-470" y="53" flags="0x1004"/>
       <component glyphName="Upsilon" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
@@ -8970,12 +8970,12 @@
       <component glyphName="Upsilon" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="Upsilonhookdiaeresis" xMin="25" yMin="0" xMax="1215" yMax="1804">
+    <TTGlyph name="Upsilonhookdiaeresis" xMin="25" yMin="0" xMax="1219" yMax="1804">
       <component glyphName="dieresis" x="234" y="451" flags="0x1004"/>
       <component glyphName="Upsilon.alt" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Upsilonhooktonos" xMin="-254" yMin="0" xMax="1215" yMax="1522">
+    <TTGlyph name="Upsilonhooktonos" xMin="-254" yMin="0" xMax="1219" yMax="1522">
       <component glyphName="tonos" x="-434" y="42" flags="0x1004"/>
       <component glyphName="Upsilon.alt" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
@@ -9570,7 +9570,7 @@
       <component glyphName="Y" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Yhook" xMin="-140" yMin="0" xMax="1097" yMax="1515">
+    <TTGlyph name="Yhook" xMin="-140" yMin="0" xMax="1097" yMax="1597">
       <contour>
         <pt x="-60" y="1330" on="1"/>
         <pt x="-140" y="1394" on="1"/>
@@ -10092,7 +10092,7 @@
       <component glyphName="Zhe" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="Zhook" xMin="68" yMin="-213" xMax="1074" yMax="1515">
+    <TTGlyph name="Zhook" xMin="68" yMin="-213" xMax="1096" yMax="1515">
       <contour>
         <pt x="822" y="-153" on="1"/>
         <pt x="896" y="-153" on="0"/>
@@ -10357,7 +10357,7 @@
       <component glyphName="adotaccent" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ae" xMin="72" yMin="-12" xMax="1446" yMax="1066">
+    <TTGlyph name="ae" xMin="72" yMin="-11" xMax="1446" yMax="1066">
       <contour>
         <pt x="72" y="331" on="0"/>
         <pt x="108" y="438" on="0"/>
@@ -11336,7 +11336,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="bhook" xMin="94" yMin="-11" xMax="919" yMax="1715">
+    <TTGlyph name="bhook" xMin="94" yMin="-11" xMax="919" yMax="1717">
       <contour>
         <pt x="252" y="166" on="1"/>
         <pt x="252" y="12" on="0"/>
@@ -12030,7 +12030,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="cheabkhasian" xMin="25" yMin="-12" xMax="986" yMax="1066">
+    <TTGlyph name="cheabkhasian" xMin="25" yMin="-11" xMax="986" yMax="1066">
       <contour>
         <pt x="355" y="625" on="1"/>
         <pt x="851" y="625" on="1"/>
@@ -12319,7 +12319,7 @@
       <component glyphName="asciicircum" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="cloud" xMin="68" yMin="229" xMax="1795" yMax="1475">
+    <TTGlyph name="cloud" xMin="50" yMin="222" xMax="1826" yMax="1487">
       <contour>
         <pt x="526" y="1183" on="1"/>
         <pt x="544" y="1262" on="0"/>
@@ -13198,7 +13198,7 @@
       <component glyphName="delta" x="1061" y="1515" scale="-1.0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="dhook" xMin="75" yMin="-11" xMax="1125" yMax="1715">
+    <TTGlyph name="dhook" xMin="75" yMin="-11" xMax="1125" yMax="1717">
       <contour>
         <pt x="742" y="166" on="1"/>
         <pt x="640" y="-11" on="0"/>
@@ -13691,7 +13691,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="e" xMin="75" yMin="-12" xMax="844" yMax="1066">
+    <TTGlyph name="e" xMin="75" yMin="-11" xMax="844" yMax="1066">
       <contour>
         <pt x="126" y="221" on="0"/>
         <pt x="75" y="401" on="0"/>
@@ -16317,7 +16317,7 @@
       <component glyphName="g" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="gamma" xMin="25" yMin="-412" xMax="945" yMax="1055">
+    <TTGlyph name="gamma" xMin="25" yMin="-412" xMax="945" yMax="1159">
       <contour>
         <pt x="467" y="0" on="1"/>
         <pt x="437" y="94" on="0"/>
@@ -17981,7 +17981,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="izhitsa" xMin="25" yMin="0" xMax="968" yMax="1061">
+    <TTGlyph name="izhitsa" xMin="25" yMin="0" xMax="968" yMax="1063">
       <contour>
         <pt x="460" y="146" on="1"/>
         <pt x="594" y="595" on="0"/>
@@ -18066,7 +18066,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="jbar" xMin="-81" yMin="-338" xMax="443" yMax="1338">
+    <TTGlyph name="jbar" xMin="-81" yMin="-337" xMax="443" yMax="1338">
       <contour>
         <pt x="-81" y="508" on="1"/>
         <pt x="-81" y="620" on="1"/>
@@ -18452,7 +18452,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="khook" xMin="130" yMin="0" xMax="886" yMax="1711">
+    <TTGlyph name="khook" xMin="130" yMin="0" xMax="886" yMax="1735">
       <contour>
         <pt x="130" y="1260" on="1"/>
         <pt x="130" y="1551" on="0"/>
@@ -18540,7 +18540,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="ksicyrillic" xMin="80" yMin="-274" xMax="872" yMax="1419">
+    <TTGlyph name="ksicyrillic" xMin="80" yMin="-372" xMax="872" yMax="1419">
       <contour>
         <pt x="234" y="1354" on="1"/>
         <pt x="299" y="1419" on="1"/>
@@ -19012,7 +19012,7 @@
       <component glyphName="m" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="mcapturn" xMin="135" yMin="-18" xMax="1482" yMax="1515">
+    <TTGlyph name="mcapturn" xMin="135" yMin="-17" xMax="1482" yMax="1515">
       <contour>
         <pt x="1043" y="107" on="1"/>
         <pt x="1182" y="107" on="0"/>
@@ -19226,6 +19226,8 @@
       <component glyphName="n" x="157" y="0" flags="0x1004"/>
       <component glyphName="quotesingle" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
+
+    <TTGlyph name="nbsp"/><!-- contains no outline data -->
 
     <TTGlyph name="ncaron" xMin="120" yMin="0" xMax="860" yMax="1475">
       <component glyphName="caron" x="178" y="56" flags="0x1004"/>
@@ -21294,8 +21296,8 @@
       <component glyphName="overline" x="0" y="0" flags="0x1004"/>
     </TTGlyph>
 
-    <TTGlyph name="oxia" xMin="181" yMin="1058" xMax="452" yMax="1480">
-      <component glyphName="acute" x="522" y="-23" scalex="0.9205" scale01="0.3907" scale10="-0.39078" scaley="0.9205" flags="0x1204"/>
+    <TTGlyph name="oxia" xMin="180" yMin="1058" xMax="452" yMax="1480">
+      <component glyphName="acute" x="522" y="-23" scalex="0.9205" scale01="0.3907" scale10="-0.3908" scaley="0.9205" flags="0x1204"/>
     </TTGlyph>
 
     <TTGlyph name="p" xMin="129" yMin="-410" xMax="940" yMax="1066">
@@ -21751,7 +21753,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="phook" xMin="129" yMin="-410" xMax="1016" yMax="1190">
+    <TTGlyph name="phook" xMin="129" yMin="-410" xMax="1016" yMax="1193">
       <contour>
         <pt x="261" y="254" on="1"/>
         <pt x="307" y="188" on="0"/>
@@ -22115,7 +22117,7 @@
     </TTGlyph>
 
     <TTGlyph name="psili_oxia" xMin="67" yMin="1268" xMax="599" yMax="1693">
-      <component glyphName="acute" x="669" y="190" scalex="0.9205" scale01="0.3907" scale10="-0.39078" scaley="0.9205" flags="0x1004"/>
+      <component glyphName="acute" x="669" y="190" scalex="0.9205" scale01="0.3907" scale10="-0.3908" scaley="0.9205" flags="0x1004"/>
       <component glyphName="psili" x="153" y="0" flags="0x1004"/>
     </TTGlyph>
 
@@ -22125,7 +22127,7 @@
     </TTGlyph>
 
     <TTGlyph name="psili_varia" xMin="67" yMin="1268" xMax="592" yMax="1693">
-      <component glyphName="grave" x="-378" y="457" scalex="0.9205" scale01="-0.39078" scale10="0.3907" scaley="0.9205" flags="0x1004"/>
+      <component glyphName="grave" x="-378" y="457" scalex="0.9205" scale01="-0.3908" scale10="0.3907" scaley="0.9205" flags="0x1004"/>
       <component glyphName="psili" x="153" y="0" flags="0x1004"/>
     </TTGlyph>
 
@@ -22677,7 +22679,7 @@
       <component glyphName="rdotbelow" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="recycle" xMin="105" yMin="159" xMax="1186" yMax="1313">
+    <TTGlyph name="recycle" xMin="99" yMin="159" xMax="1228" yMax="1328">
       <contour>
         <pt x="907" y="849" on="1"/>
         <pt x="704" y="1201" on="1"/>
@@ -25302,7 +25304,7 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="tpalatalhook" xMin="36" yMin="-259" xMax="609" yMax="1440">
+    <TTGlyph name="tpalatalhook" xMin="36" yMin="-270" xMax="612" yMax="1440">
       <contour>
         <pt x="612" y="-75" on="0"/>
         <pt x="605" y="-178" on="0"/>
@@ -25728,7 +25730,7 @@
       <component glyphName="u" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="uhorn" xMin="129" yMin="-11" xMax="1078" yMax="1248">
+    <TTGlyph name="uhorn" xMin="129" yMin="-11" xMax="1087" yMax="1248">
       <contour>
         <pt x="129" y="269" on="1"/>
         <pt x="129" y="1055" on="1"/>
@@ -25769,22 +25771,22 @@
         </assembly></instructions>
     </TTGlyph>
 
-    <TTGlyph name="uhornacute" xMin="129" yMin="-11" xMax="1078" yMax="1469">
+    <TTGlyph name="uhornacute" xMin="129" yMin="-11" xMax="1087" yMax="1469">
       <component glyphName="acute" x="309" y="14" flags="0x1004"/>
       <component glyphName="uhorn" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="uhorndotbelow" xMin="129" yMin="-283" xMax="1078" yMax="1248">
+    <TTGlyph name="uhorndotbelow" xMin="129" yMin="-283" xMax="1087" yMax="1248">
       <component glyphName="dotaccent" x="498" y="-405" flags="0x1004"/>
       <component glyphName="uhorn" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="uhorngrave" xMin="129" yMin="-11" xMax="1078" yMax="1496">
+    <TTGlyph name="uhorngrave" xMin="129" yMin="-11" xMax="1087" yMax="1496">
       <component glyphName="grave" x="11" y="41" flags="0x1004"/>
       <component glyphName="uhorn" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="uhorntilde" xMin="129" yMin="-11" xMax="1078" yMax="1396">
+    <TTGlyph name="uhorntilde" xMin="129" yMin="-11" xMax="1087" yMax="1396">
       <component glyphName="tilde" x="521" y="1074" flags="0x1004"/>
       <component glyphName="uhorn" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
@@ -26157,7 +26159,7 @@
     </TTGlyph>
 
     <TTGlyph name="varia" xMin="230" yMin="1060" xMax="501" yMax="1482">
-      <component glyphName="grave" x="-469" y="246" scalex="0.9205" scale01="-0.39078" scale10="0.3907" scaley="0.9205" flags="0x1204"/>
+      <component glyphName="grave" x="-469" y="246" scalex="0.9205" scale01="-0.3908" scale10="0.3907" scaley="0.9205" flags="0x1204"/>
     </TTGlyph>
 
     <TTGlyph name="vdotbelow" xMin="25" yMin="-272" xMax="876" yMax="1055">
@@ -27170,7 +27172,7 @@
       <component glyphName="z" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="ze" xMin="80" yMin="-3" xMax="874" yMax="1063">
+    <TTGlyph name="ze" xMin="80" yMin="-2" xMax="874" yMax="1063">
       <contour>
         <pt x="80" y="93" on="1"/>
         <pt x="133" y="196" on="1"/>
@@ -27548,7 +27550,7 @@
       <component glyphName="zhe" x="0" y="0" flags="0x1204"/>
     </TTGlyph>
 
-    <TTGlyph name="zhook" xMin="25" yMin="-204" xMax="754" yMax="1055">
+    <TTGlyph name="zhook" xMin="25" yMin="-204" xMax="768" yMax="1055">
       <contour>
         <pt x="25" y="0" on="1"/>
         <pt x="25" y="85" on="1"/>

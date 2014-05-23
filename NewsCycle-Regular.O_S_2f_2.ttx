@@ -39,10 +39,10 @@
     <fsFirstCharIndex value="13"/>
     <fsLastCharIndex value="64262"/>
     <sTypoAscender value="2510"/>
-    <sTypoDescender value="-538"/>
+    <sTypoDescender value="-794"/>
     <sTypoLineGap value="0"/>
     <usWinAscent value="2510"/>
-    <usWinDescent value="538"/>
+    <usWinDescent value="794"/>
     <ulCodePageRange1 value="10100000 00000000 00000000 10011111"/>
     <ulCodePageRange2 value="00000000 00000000 00000000 00000000"/>
   </OS_2>

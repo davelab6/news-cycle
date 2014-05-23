@@ -1336,6 +1336,7 @@
       <psName name="ffl"/>
       <psName name="longs_t"/>
       <psName name="st"/>
+      <psName name="nbsp"/>
     </extraNames>
   </post>
 

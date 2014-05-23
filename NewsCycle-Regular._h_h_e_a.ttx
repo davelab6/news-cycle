@@ -4,7 +4,7 @@
   <hhea>
     <tableVersion value="1.0"/>
     <ascent value="2510"/>
-    <descent value="-538"/>
+    <descent value="-794"/>
     <lineGap value="0"/>
     <advanceWidthMax value="3127"/>
     <minLeftSideBearing value="-535"/>
@@ -18,7 +18,7 @@
     <reserved2 value="0"/>
     <reserved3 value="0"/>
     <metricDataFormat value="0"/>
-    <numberOfHMetrics value="1561"/>
+    <numberOfHMetrics value="1562"/>
   </hhea>
 
 </ttFont>
